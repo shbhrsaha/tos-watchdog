@@ -1,0 +1,328 @@
+[ TOS Watchdog retrieved from: https://groupme.com/terms ] 
+
+ Simply put: GroupMe, Inc. (collectively, "we" "us" or "GroupMe") is a group 
+texting service that lets you stay in touch with groups of people via mobile 
+phones. GroupMe is currently provided as a free service. We appreciate 
+responsible usage of the service and hope you enjoy it! By the way, if you don't
+ agree to the Terms of Service below, don't use the Service!
+
+The following 
+terms and conditions govern all use of the GroupMe service including without 
+limitation this website (www.groupme.com) (collectively the "Service"). The 
+Service is offered subject to your acceptance without modification of all of the
+ terms and conditions contained herein, including the provisions calling for 
+arbitration of disputes that may arise out of use of the Service, and all other 
+operating rules, policies (including, without limitation, GroupMe's Privacy 
+Policy http://groupme.com/privacy) and procedures that may be published from 
+time to time on this website by GroupMe (collectively, the "Terms").
+
+Please 
+read the Terms carefully before accessing or using the Service. By accessing or 
+using any part of the Service, you agree to be bound by the Terms. If you do not
+ agree to the Terms, then you may not access or use the Service. GroupMe may 
+amend the Terms from time to time and will provide notice of any substantive 
+changes on this website. Continued usage of the Service constitutes acceptance 
+of the amended Terms.
+
+The GroupMe application allows for the purchase of some 
+content and services from time to time at the sole option of the user. However, 
+there is no requirement or obligation for any user to purchase anything through 
+the GroupMe application in order for the user to make use of the Service.
+
+The 
+Service is available only to individuals who are at least thirteen (13) years 
+old. By using the Service you represent that you are at least 13 years of age 
+and otherwise able to enter into a valid and binding legal agreement and 
+acknowledge that the Terms constitute a valid, binding agreement between you and
+ us.
+
+The Service enables you to create unique groups with friends, coworkers, 
+and other individuals and then allows you send messages to individuals you or 
+others add to the group. Each unique group is given a ten digit telephone 
+number. GroupMe recommends that you go to http://groupme.com/apps and download 
+the GroupMe application for messaging. Please note that any text messages sent 
+to the unique number will be sent to every individual in the group with the 
+exception of commands (always prefaced with a "#").
+
+Consent to add group 
+members. GroupMe makes it easy for you to add group members to your groups so 
+that you can exchange messages with each other. YOU REPRESENT AND WARRANT TO US 
+THAT EACH PERSON YOU ADD TO A GROUP HAS CONSENTED TO BE ADDED TO THE GROUP AND 
+TO RECEIVE ADMINISTRATIVE MESSAGES FROM GROUPME AND TEXT MESSAGES FROM YOU AND 
+ANYONE ELSE IN THE GROUP.
+
+Consent to receive periodic messages from GroupMe. As
+ part of the Service, GroupMe sometimes causes administrative messages to be 
+sent to members of the group. For example, upon adding a new member to a group, 
+such new member will receive a welcome message, instructions on how to stop 
+receiving messages, and information on how to avoid certain charges by 
+downloading the GroupMe app. GroupMe also may inform group members who have not 
+replied that they automatically will be removed from the group if they do not 
+participate. GroupMe may send other administrative messages as well. BY SIGNING 
+UP FOR THE SERVICE, YOU AGREE TO RECEIVE TEXT MESSAGES FROM GROUPME, AND YOU 
+REPRESENT AND WARRANT THAT EACH PERSON YOU ADD TO A GROUP HAS CONSENTED TO 
+RECEIVE TEXT MESSAGES FROM GROUPME.
+
+Stopping groupme messages. To permanently 
+cease receiving text messages from any group, text STOP to any group or to the 
+GroupMe shortcode (GROUP or 47687). GroupMe service can be resumed by texting 
+RESUME to any group or the shortcode.
+
+GroupMe does not charge a fee to use the 
+Service, but any text messages sent and/or received are subject to standard text
+ messaging rates. Additionally, text messages sent and/or received count towards
+ a monthly quota as any other messages do. Any users, whether sending or 
+receiving text messages with GroupMe, should be aware that standard text 
+messaging rates may apply. Please be aware that texting charges can fluctuate 
+internationally. Text messaging rates can normally be found by asking your 
+provider. If you are using GroupMe internationally, please read our 
+International SMS terms, available online here: http://groupme.com/t
+
+This SMS 
+Use Policy is designed to prevent fraud and abuse of our subscriptions by a 
+small number of users.
+
+GroupMe is primarily intended for use with our 
+downloadable application. The ability to send and receive SMS messages is only 
+an additive benefit. SMS usage is limited and any usage over 100 messages per 
+month may lead to restricted use of SMS, required use of the downloadable 
+application and possibly termination of GroupMe SMS capabilities. To maintain 
+uninterrupted messaging, it is recommended that you go to 
+http://groupme.com/apps and download the GroupMe application for messaging.
+
+
+GroupMe offers you the ability to use Balanced as a service provider for payment
+ services (e.g. card payments and acceptance, merchant settlement, and related 
+services). By making use of some or all of these payment services on GroupMe you
+ agree to be bound by Balanced's terms and conditions (available at 
+https://www.balancedpayments.com/terms/groupme along with its privacy policy: 
+https://www.balancedpayments.com/privacy) and hereby consent and authorize 
+Balanced to delegate the authorizations and share the information you provide to
+ Balanced with Balanced's Third Party Service Provider(s) to the extent required
+ to provide the payment services to you. Balanced may also be contacted directly
+ for payments support by email at support@balancedpayments.com.
+
+If you create 
+an account on GroupMe, you are responsible for maintaining the security of your 
+account and groups, and you are fully responsible for all activities that occur 
+under the account and any other actions taken in connection with your groups. 
+You must immediately notify us of any unauthorized uses of your group, your 
+account, or any other breaches of security. We will not be liable for any acts 
+or omissions by any user, including any damages of any kind incurred as a result
+ of such acts or omissions. Further, you agree that you will provide only 
+truthful information in your user profile and will neither falsify your phone 
+number or your email address nor spoof another individual's phone number or 
+email address. Third party vendors may further restrict your use of the Service.
+
+
+If you operate a group, post material to one, or otherwise make (or allow any 
+third party to make) material available by means of the Service (any such 
+material, "Content"), you are entirely responsible for the content of, and any 
+harm resulting from, that Content. By using the Service, you assume 
+responsibility for your use of the Service and agree not to use it in ways not 
+explicitly authorized by GroupMe. You represent and warrant that you own and 
+control all of the rights to the Content that you share using the Service, or 
+you otherwise have the right to post or share the Content on the Service; and 
+represent and warrant that the use and posting of the Content you supply does 
+not violate the Terms, will not violate any rights of or cause injury to any 
+person or entity, and will not otherwise create any harm or liability of any 
+type for us or for third parties. Using the Service means that you will:
+
+
+GroupMe's affiliate company, Skype Software SARL, may make available software to
+ enable use of the Service (the "Software"). If Software is made available to 
+you through the Service, your use of the Software is subject to the terms of the
+ end-user license agreement (if any) that accompanies the Software; or, if no 
+end-user license accompanies the Software, then subject to the terms and 
+conditions of this Agreement, Skype Software SARL grants to you only a limited, 
+personal, non-exclusive, non-transferable license to install and use one copy of
+ the Software on a single personal computer in accordance with its documentation
+ (if any), solely to enable your use of the Service. This limited license does 
+not include any right to modify, distribute, prepare derivative works of, or 
+grant sublicenses to use the Software. Furthermore, in order to protect the 
+trade secrets and proprietary know-how contained in the Software, you will not 
+decompile, disassemble, or reverse engineer the Software.
+
+Any Content 
+transmitted by groups is not representative of our opinions including our 
+employees. Links may be transmitted in groups, none of which are endorsed by or 
+affiliated with us. Please use your discretion in following these links and 
+utilizing the Service and keep in mind that all use is governed by the Terms.
+
+
+By using GroupMe and submitting Content to a group, you grant us a world-wide, 
+royalty-free, perpetual, fully sub-licenseable and non-exclusive license to 
+reproduce, modify, adapt and publish the Content in connection with the Service.
+ Without limiting any of those representations or warranties, GroupMe has the 
+right (though not the obligation) to, in its sole discretion (i) refuse or 
+remove any content that, in GroupMe's opinion, violates any GroupMe policy or is
+ in any way harmful or objectionable, or (ii) terminate or deny access to and 
+use of the Service to any individual or entity for any reason, in GroupMe's sole
+ discretion. This may include modifying or stopping the Service in its entirety.
+
+
+All users that use the GroupMe Service to store, post or share content 
+(including text, images, sound, video, data, information or software) via 
+GroupMe are subject to the GroupMe Code of Conduct, available online at 
+http://groupme.com/conduct
+
+We respect the intellectual property of others. If 
+you think material shared in a GroupMe group violates any of your copyrights, 
+please contact GroupMe. The Notice of Infringement is located at 
+https://www.microsoft.com/info/cpyrtInfrg.aspx.
+
+We will reply to all such 
+notices, including as required or appropriate by removing any infringing 
+material or eliminating all links to the infringing material. Should a user 
+repeatedly infringe on copyrights or other intellectual property, GroupMe will 
+terminate that user's access to GroupMe.
+
+GroupMe may periodically make updates 
+to the Service. Disruptions to the Service are rare but may occur. GroupMe 
+reserves the right to terminate the Service at its sole discretion. This may 
+prevent you from accessing any Content made available through or on the Service.
+
+
+Messages transmitted via GroupMe are subject to the GroupMe Privacy Policy, 
+available online at http://groupme.com/privacy
+
+We reserve the right to block 
+access to any Content and to terminate your or any group member's access to the 
+Service at any time, with or without cause, with or without notice, effective 
+immediately. Should you wish to terminate your use of the GroupMe service, 
+simply text STOP to any existing GroupMe group. Provisions of the Terms which on
+ their face are intended to survive shall survive such termination. Your access 
+to Content may be terminated.
+
+YOUR USE OF THE SOFTWARE AND SERVICE IS AT YOUR 
+SOLE RISK. THE SOFTWARE AND SERVICE ARE PROVIDED ON AN "AS IS" AND "AS 
+AVAILABLE" BASIS. GROUPME AND ITS AFFILIATES EXPRESSLY DISCLAIM ALL WARRANTIES 
+OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO THE 
+IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, 
+AND NON-INFRINGEMENT. GROUPME DOES NOT GUARANTEE THE ACCURACY, COMPLETENESS, OR 
+USEFULNESS OF THE SERVICE, AND YOU RELY ON THE SERVICE AT YOUR OWN RISK. ANY 
+MATERIAL TRANSMITTED OR STORED THROUGH USE OF THE SERVICE IS DONE AT YOUR OWN 
+DISCRETION AND RISK AND YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE OR LOSS OF
+ DATA THAT RESULTS FROM THE TRANSMISSION OF ANY MATERIAL THROUGH THE SERVICE. NO
+ ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM GROUPME OR
+ THROUGH OR FROM THE SERVICE WILL CREATE ANY WARRANTY NOT EXPRESSLY STATED IN 
+THIS AGREEMENT. SOME STATES MAY PROHIBIT A DISCLAIMER OF WARRANTIES AND YOU MAY 
+HAVE OTHER RIGHTS THAT VARY FROM STATE TO STATE.
+
+NEITHER GROUPME NOR OUR 
+AFFILIATES, LICENSORS OR SUPPLIERS WILL BE LIABLE FOR ANY INDIRECT, INCIDENTAL, 
+SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES, INCLUDING BUT NOT LIMITED TO, 
+DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA OR OTHER INTANGIBLE LOSSES 
+(EVEN IF GROUPME HAS BEEN ADVISED OF THE POSSIBILITY OF THESE DAMAGES), 
+RESULTING FROM YOUR USE OF THE SOFTWARE OR SERVICE. UNDER NO CIRCUMSTANCES WILL 
+GROUPME'S OR OUR AFFILIATES', LICENSORS' OR SUPPLIERS' TOTAL LIABILITY OF ALL 
+KINDS ARISING OUT OF OR RELATED TO THIS AGREEMENT (INCLUDING BUT NOT LIMITED TO 
+WARRANTY CLAIMS), REGARDLESS OF THE FORUM AND REGARDLESS OF WHETHER ANY ACTION 
+OR CLAIM IS BASED ON CONTRACT, TORT, OR OTHERWISE, EXCEED THE GREATER OF THE 
+TOTAL AMOUNT PAID BY YOU TO GROUPME FOR THE SOFTWARE OR SERVICE OR $50. THE 
+LIMITATIONS SET FORTH IN THIS AGREEMENT APPLY EVEN IF ANY LIMITED REMEDY UNDER 
+THIS AGREEMENT FAILS OF ITS ESSENTIAL PURPOSE. BECAUSE SOME STATES DO NOT ALLOW 
+THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL 
+DAMAGES, THE ABOVE LIMITATION ON CONSEQUENTIAL OR INCIDENTAL DAMAGES MAY NOT 
+APPLY TO YOU.
+
+You agree to indemnify and hold harmless GroupMe, its 
+contractors, affiliates and its licensors, and their respective directors, 
+officers, employees and agents from and against any and all claims and expenses,
+ including attorneys' fees, arising out of your use of the Software and/or 
+Service, including but not limited to your violation of the Terms, or your 
+breach of any representation or warranty contained in these Terms.
+
+We will not 
+be liable to you for any delay or failure to perform any obligation under the 
+Terms if the delay or failure is due to circumstances beyond our reasonable 
+control.
+
+These Terms constitute the entire agreement between GroupMe and you 
+concerning the subject matter hereof, and may only be modified by a written 
+amendment signed by an authorized executive of GroupMe, or by the posting by 
+GroupMe of a revised version. You agree that any notice, agreements, disclosure,
+ or other communications that we send to you electronically will satisfy any 
+legal communication requirements, including that such communications be in 
+writing or otherwise be authorized. There are no third party beneficiaries to 
+the Terms. Our failure to act in a particular circumstance does not waive our 
+ability to act with respect to that circumstance or similar circumstances. If 
+any provision of the Terms is found by a court of competent jurisdiction to be 
+invalid, the parties nevertheless agree that the court should endeavor to give 
+effect to the parties' intentions as reflected in the provision, and the other 
+provisions of the Terms remain in full force and effect.
+
+Except to the extent 
+applicable law, if any, provides otherwise, and except as set forth below under 
+the Arbitration and Class Action Waiver provision, all disputes arising out of 
+or in any way related to this Agreement or the Service shall be brought 
+exclusively in state or federal court in New York County, New York. This 
+Agreement, and all access to or use of the Service, shall be governed by New 
+York law.
+
+You agree that, unless prohibited by applicable law, the parties to 
+the Terms may elect to arbitrate - and require the other party to arbitrate - 
+any claim arising out of or in any way related to this Agreement or the Service.
+
+
+If you or we elect to arbitrate a claim, neither you nor we will have the 
+right to: (1) have a court or a jury decide the claim; (2) participate in a 
+class action in court or in arbitration, either as a class representative or a 
+class member; (3) act as a private attorney general in court or in arbitration; 
+or (4) join or consolidate your claim(s) with claims of any other person or 
+involving any other transaction.
+
+To start an arbitration, you or we must give 
+written notice of an election to arbitrate. This notice may be given after a 
+lawsuit has been filed and may be given in papers or motions in the lawsuit. If 
+such a notice is given, the claim shall be resolved by arbitration under this 
+Arbitration Provision and the consumer or other applicable rules of the American
+ Arbitration Administration then in effect using a single arbitrator appointed 
+by the American Arbitration Association and approved by you and us. For more 
+information please see www.adr.org.
+
+Notwithstanding any language herein to the 
+contrary, if you or we elect to arbitrate a claim, neither you nor we will have 
+the right to: (1) participate in a class action in court or in arbitration, 
+either as a class representative, class member or class opponent; (2) act as a 
+private attorney general in court or in arbitration; or (3) join or consolidate 
+your Claims with claims of any other person or involving any other transaction, 
+and the arbitrator shall have no authority to conduct any such class, private 
+attorney general or multiple-party proceeding.
+
+Any arbitration hearing that you
+ attend will take place in a location that is reasonably convenient for you. If 
+you cannot afford or otherwise do not want to pay the Administrator's or 
+arbitrator's filing, administrative, hearing and/or other fees and cannot obtain
+ a waiver of fees from the Administrator, we will consider in good faith any 
+request by you for us to bear the cost of those fees. We will pay for our own 
+attorneys, experts and witnesses and will pay the reasonable fees and charges of
+ your attorneys, experts and witnesses if you win the arbitration, as determined
+ by the arbitrator. We will pay any administration fee, arbitration fees and 
+fees and charges of attorneys, experts and witnesses if and to the extent we are
+ required to pay such fees and charges by law or in order to make this 
+Arbitration Provision enforceable.
+
+Any court with jurisdiction may enter 
+judgment upon the arbitrator's award. The arbitrator's award will be final and 
+binding, except for: (1) any appeal right under the Federal Arbitration Act, 9 
+U.S.C. ??1 et seq. (the"FAA"); and (2) claims involving more than $100,000. For 
+claims involving more than $100,000, any party may appeal the award to a three-
+arbitrator panel appointed by the Administrator, which will reconsider anew any 
+aspect of the initial award that is appealed. The panel's decision will be final
+ and binding, except for any appeal right under the FAA. The costs of any appeal
+ will be borne in accordance with the paragraph above captioned "Location And 
+Costs."
+
+This Arbitration Provision is made pursuant to a transaction involving 
+interstate commerce and shall be governed by the FAA, and not by any state law 
+concerning arbitration.
+
+This Arbitration Provision shall survive the 
+termination of your use of the Services, the Terms themselves and, the 
+fulfillment of all our and your obligations under the Terms*
+
+IMPORTANT NOTICE: 
+WE HAVE UPDATED OUR TERMS OF SERVICE http://groupme.com/terms By using GroupMe 
+you are indicating that you have read, understood, and agree to the updated 
+Terms of Service.
