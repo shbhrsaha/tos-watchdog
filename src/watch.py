@@ -75,6 +75,7 @@ while True:
 
         url_obj = URL(url)
         domain = url_obj.domain
+        url_obj.path.append(url_obj.page)
         path = url_obj.path
         doc_code = slugify("-".join(path))+"-doc.txt"
         github_location = "/content/%s/%s" % (slugify(domain), doc_code)
