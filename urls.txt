@@ -33,3 +33,5 @@ https://www.snapchat.com/terms
 https://groupme.com/terms
 http://www.microsoft.com/en-us/legal/intellectualproperty/copyright/
 http://www.ticketmaster.com/h/terms.html
+https://www.netflix.com/termsofuse
+https://www.netflix.com/privacypolicy
