@@ -17,7 +17,7 @@ from pattern.web import URL
 logging.basicConfig(format='%(message)s', level=logging.DEBUG)
 
 auth_token = sys.argv[1]
-REPOSITORY_API_URL = "https://api.github.com/repos/shbhrsaha/terms-of-service-watchdog"
+REPOSITORY_API_URL = "https://api.github.com/repos/shbhrsaha/tos-watchdog"
 WAIT_TIME = 3600
 
 def get_file(github_location):
