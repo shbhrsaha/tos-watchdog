@@ -1,0 +1,1 @@
+watcher: python src/watch.py $GITHUB_TOKEN

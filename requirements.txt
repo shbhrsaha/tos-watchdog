@@ -1,0 +1,4 @@
+goose-extractor==1.0.25
+Pattern==2.6
+python-slugify==0.1.0
+requests==2.6.0
