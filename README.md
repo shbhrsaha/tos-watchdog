@@ -1,4 +1,4 @@
-# terms-of-service-watchdog
+# tos-watchdog
 
 Use GitHub to track changes in popular terms of service and privacy policy documents.
 
