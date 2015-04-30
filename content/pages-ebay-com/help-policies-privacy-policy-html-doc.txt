@@ -1,11 +1,8 @@
 [ TOS Watchdog retrieved from: http://pages.ebay.com/help/policies/privacy-policy.html?rt=nc ] 
 
- We're sorry, but we are not able to post your comment at this time. Please try 
-again later.
-
-The eBay website is a licensee of the TRUSTe Web Privacy Program. 
-If Customer Support cannot answer your privacy-related questions, please use the
- TRUSTe Watchdog Dispute Resolution Process. This Privacy Notice describes our 
+ The eBay website is a licensee of the TRUSTe Web Privacy Program. If Customer 
+Support cannot answer your privacy-related questions, please use the TRUSTe 
+Watchdog Dispute Resolution Process. This Privacy Notice describes our 
 collection, use, disclosure, retention, and protection of your personal 
 information. It applies to any eBay site where this Privacy Notice appears in 
 the footer, and to any eBay application, service, or tool (collectively 
@@ -347,6 +344,4 @@ information on how to contact us at our eBay Privacy Center. How can we improve
 this page? (optional) 
 
  If you're looking for more help or have a question to 
-ask, please contact us Have a question? We can help. Get help from other eBay 
-members. Visit the Answer Center to post a question. Managing Your Account with 
-My eBay
+ask, please contact us
