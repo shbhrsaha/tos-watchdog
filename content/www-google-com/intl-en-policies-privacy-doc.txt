@@ -1,102 +1,109 @@
 [ TOS Watchdog retrieved from: http://www.google.com/intl/en/policies/privacy/ ] 
 
- There are many different ways you can use our services ? to search for and share
- information, to communicate with other people or to create new content. When 
-you share information with us, for example by creating a Google Account, we can 
-make those services even better ? to show you more relevant search results and 
-ads, to help you connect with people or to make sharing with others quicker and 
-easier. As you use our services, we want you to be clear how we?re using 
-information and the ways in which you can protect your privacy.
+ When you use Google services, you trust us with your information. This Privacy 
+Policy is meant to help you understand what data we collect, why we collect it, 
+and what we do with it. This is important; we hope you will take time to read it
+ carefully. And remember, you can find controls to manage your information and 
+protect your privacy and security at My Account .
 
-We?ve tried to 
-keep it as simple as possible, but if you?re not familiar with terms like 
-cookies, IP addresses, pixel tags and browsers, then read about these key terms 
-first. Your privacy matters to Google so whether you are new to Google or a 
-long-time user, please do take the time to get to know our practices ? and if 
-you have any questions consult this page.
+There are many different ways
+ you can use our services ? to search for and share information, to communicate 
+with other people or to create new content. When you share information with us, 
+for example by creating a Google Account, we can make those services even better
+ ? to show you more relevant search results and ads, to help you connect with 
+people or to make sharing with others quicker and easier. As you use our 
+services, we want you to be clear how we?re using information and the ways in 
+which you can protect your privacy.
 
-We collect information to provide 
-better services to all of our users ? from figuring out basic stuff like which 
-language you speak, to more complex things like which ads you?ll find most 
-useful, the people who matter most to you online, or which YouTube videos you 
-might like.
+We?ve tried to keep it as simple as 
+possible, but if you?re not familiar with terms like cookies, IP addresses, 
+pixel tags and browsers, then read about these key terms first. Your privacy 
+matters to Google so whether you are new to Google or a long-time user, please 
+do take the time to get to know our practices ? and if you have any questions 
+consult this page.
 
-We collect information in two ways:
+We collect information to provide better services to all of 
+our users ? from figuring out basic stuff like which language you speak, to more
+ complex things like which ads you?ll find most useful, the people who matter 
+most to you online, or which YouTube videos you might like.
 
-We use the information we 
-collect from all of our services to provide, maintain, protect and improve them,
- to develop new ones, and to protect Google and our users. We also use this 
-information to offer you tailored content ? like giving you more relevant search
- results and ads.
+We collect 
+information in two ways:
 
-We may use the name you provide for your Google Profile 
-across all of the services we offer that require a Google Account. In addition, 
-we may replace past names associated with your Google Account so that you are 
-represented consistently across all our services. If other users already have 
-your email, or other information that identifies you, we may show them your 
-publicly visible Google Profile information, such as your name and photo.
+We use the information we collect from all of our 
+services to provide, maintain, protect and improve them, to develop new ones, 
+and to protect Google and our users. We also use this information to offer you 
+tailored content ? like giving you more relevant search results and ads.
 
-If 
-you have a Google Account, we may display your Profile name, Profile photo, and 
-actions you take on Google or on third-party applications connected to your 
-Google Account (such as +1?s, reviews you write and comments you post) in our 
-services, including displaying in ads and other commercial contexts. We will 
-respect the choices you make to limit sharing or visibility settings in your 
-Google Account.
+We may
+ use the name you provide for your Google Profile across all of the services we 
+offer that require a Google Account. In addition, we may replace past names 
+associated with your Google Account so that you are represented consistently 
+across all our services. If other users already have your email, or other 
+information that identifies you, we may show them your publicly visible Google 
+Profile information, such as your name and photo.
 
-When you contact Google, we keep a record of your communication
- to help solve any issues you might be facing. We may use your email address to 
-inform you about our services, such as letting you know about upcoming changes 
-or improvements.
+If you have a Google Account,
+ we may display your Profile name, Profile photo, and actions you take on Google
+ or on third-party applications connected to your Google Account (such as +1?s, 
+reviews you write and comments you post) in our services, including displaying 
+in ads and other commercial contexts. We will respect the choices you make to 
+limit sharing or visibility settings in your Google Account.
 
-We use information collected from cookies and other 
-technologies, like pixel tags, to improve your user experience and the overall 
-quality of our services. One of the products we use to do this on our own 
-services is Google Analytics. For example, by saving your language preferences, 
-we?ll be able to have our services appear in the language you prefer. When 
-showing you tailored ads, we will not associate a cookie or anonymous identifier
- with sensitive categories, such as those based on race, religion, sexual 
-orientation or health.
+When you contact 
+Google, we keep a record of your communication to help solve any issues you 
+might be facing. We may use your email address to inform you about our services,
+ such as letting you know about upcoming changes or improvements.
 
-Our automated systems analyze your content (including 
-emails) to provide you personally relevant product features, such as customized 
-search results, tailored advertising, and spam and malware detection.
+We use 
+information collected from cookies and other technologies, like pixel tags, to 
+improve your user experience and the overall quality of our services. One of the
+ products we use to do this on our own services is Google Analytics. For 
+example, by saving your language preferences, we?ll be able to have our services
+ appear in the language you prefer. When showing you tailored ads, we will not 
+associate a cookie or anonymous identifier with sensitive categories, such as 
+those based on race, religion, sexual orientation or health.
 
-We may 
-combine personal information from one service with information, including 
-personal information, from other Google services ? for example to make it easier
- to share things with people you know. We will not combine DoubleClick cookie 
-information with personally identifiable information unless we have your opt-in 
-consent.
+Our automated 
+systems analyze your content (including emails) to provide you personally 
+relevant product features, such as customized search results, tailored 
+advertising, and spam and malware detection.
 
-We will ask for your consent before using information for a purpose 
-other than those that are set out in this Privacy Policy.
+We may combine personal 
+information from one service with information, including personal information, 
+from other Google services ? for example to make it easier to share things with 
+people you know. We will not combine DoubleClick cookie information with 
+personally identifiable information unless we have your opt-in consent.
 
-Google processes 
-personal information on our servers in many countries around the world. We may 
-process your personal information on a server located outside the country where 
-you live.
+We will
+ ask for your consent before using information for a purpose other than those 
+that are set out in this Privacy Policy.
 
-People have different privacy concerns. Our goal is to be clear about
- what information we collect, so that you can make meaningful choices about how 
-it is used. For example, you can:
+Google processes personal information 
+on our servers in many countries around the world. We may process your personal 
+information on a server located outside the country where you live.
 
-You may also set your browser to block all 
-cookies, including cookies associated with our services, or to indicate when a 
-cookie is being set by us. However, it?s important to remember that many of our 
-services may not function properly if your cookies are disabled. For example, we
- may not remember your language preferences.
+People have
+ different privacy concerns. Our goal is to be clear about what information we 
+collect, so that you can make meaningful choices about how it is used. For 
+example, you can:
 
-Many of our services let you share
- information with others. Remember that when you share information publicly, it 
-may be indexable by search engines, including Google. Our services provide you 
-with different options on sharing and removing your content.
+You may also set your browser to block all cookies, including
+ cookies associated with our services, or to indicate when a cookie is being set
+ by us. However, it?s important to remember that many of our services may not 
+function properly if your cookies are disabled. For example, we may not remember
+ your language preferences.
 
-Whenever you use 
-our services, we aim to provide you with access to your personal information. If
- that information is wrong, we strive to give you ways to update it quickly or 
-to delete it ? unless we have to keep that information for legitimate business 
-or legal purposes. When updating your personal information, we may ask you to 
+Many of our services let you share information with
+ others. Remember that when you share information publicly, it may be indexable 
+by search engines, including Google. Our services provide you with different 
+options on sharing and removing your content.
+
+Whenever you use our services, we
+ aim to provide you with access to your personal information. If that 
+information is wrong, we strive to give you ways to update it quickly or to 
+delete it ? unless we have to keep that information for legitimate business or 
+legal purposes. When updating your personal information, we may ask you to 
 verify your identity before we can act on your request.
 
 We may reject requests 
