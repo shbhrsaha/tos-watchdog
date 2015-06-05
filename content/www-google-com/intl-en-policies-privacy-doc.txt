@@ -28,41 +28,48 @@ our users ? from figuring out basic stuff like which language you speak, to more
 most to you online, or which YouTube videos you might like.
 
 We collect 
-information in two ways:
+information in the following ways:
 
-We use the information we collect from all of our 
-services to provide, maintain, protect and improve them, to develop new ones, 
-and to protect Google and our users. We also use this information to offer you 
-tailored content ? like giving you more relevant search results and ads.
+Information we collect when you are signed 
+in to Google may be associated with your Google Account. When information is 
+associated with your Google Account, we treat it as personal information. For 
+more information about how you can access, manage or delete information that is 
+associated with your Google Account, visit the Transparency and choice section 
+of this policy.
 
-We may
- use the name you provide for your Google Profile across all of the services we 
-offer that require a Google Account. In addition, we may replace past names 
-associated with your Google Account so that you are represented consistently 
-across all our services. If other users already have your email, or other 
-information that identifies you, we may show them your publicly visible Google 
-Profile information, such as your name and photo.
+We use the information we collect from all of our services to 
+provide, maintain, protect and improve them, to develop new ones, and to protect
+ Google and our users. We also use this information to offer you tailored 
+content ? like giving you more relevant search results and ads.
 
-If you have a Google Account,
- we may display your Profile name, Profile photo, and actions you take on Google
- or on third-party applications connected to your Google Account (such as +1?s, 
-reviews you write and comments you post) in our services, including displaying 
-in ads and other commercial contexts. We will respect the choices you make to 
-limit sharing or visibility settings in your Google Account.
+We may use the 
+name you provide for your Google Profile across all of the services we offer 
+that require a Google Account. In addition, we may replace past names associated
+ with your Google Account so that you are represented consistently across all 
+our services. If other users already have your email, or other information that 
+identifies you, we may show them your publicly visible Google Profile 
+information, such as your name and photo.
 
-When you contact 
-Google, we keep a record of your communication to help solve any issues you 
-might be facing. We may use your email address to inform you about our services,
- such as letting you know about upcoming changes or improvements.
+If you have a Google Account, we may 
+display your Profile name, Profile photo, and actions you take on Google or on 
+third-party applications connected to your Google Account (such as +1?s, reviews
+ you write and comments you post) in our services, including displaying in ads 
+and other commercial contexts. We will respect the choices you make to limit 
+sharing or visibility settings in your Google Account.
 
-We use 
-information collected from cookies and other technologies, like pixel tags, to 
-improve your user experience and the overall quality of our services. One of the
- products we use to do this on our own services is Google Analytics. For 
-example, by saving your language preferences, we?ll be able to have our services
- appear in the language you prefer. When showing you tailored ads, we will not 
-associate a cookie or anonymous identifier with sensitive categories, such as 
-those based on race, religion, sexual orientation or health.
+When you contact Google,
+ we keep a record of your communication to help solve any issues you might be 
+facing. We may use your email address to inform you about our services, such as 
+letting you know about upcoming changes or improvements.
+
+We use information 
+collected from cookies and other technologies, like pixel tags, to improve your 
+user experience and the overall quality of our services. One of the products we 
+use to do this on our own services is Google Analytics. For example, by saving 
+your language preferences, we?ll be able to have our services appear in the 
+language you prefer. When showing you tailored ads, we will not associate an 
+identifier from cookies or similar technologies with sensitive categories, such 
+as those based on race, religion, sexual orientation or health.
 
 Our automated 
 systems analyze your content (including emails) to provide you personally 
