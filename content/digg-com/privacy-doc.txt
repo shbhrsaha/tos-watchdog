@@ -87,7 +87,7 @@ were published, (iii) whether and when you viewed, saved, or marked them as
 read, (iv) information related to your organizational choices, such as the 
 folders or tags you assign to sources, and (v) information necessary to complete
  actions you may choose to take with particular items, such as digging, saving, 
-liking, recommending, or sharing to Third Party Services. If
+liking, recommending, or sharing to Third Party Services.
 
 We collect 
 information about accesses of content curated through Digg, as well as 
