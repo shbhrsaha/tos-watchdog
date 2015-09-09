@@ -1,6 +1,6 @@
 [ TOS Watchdog retrieved from: http://www.amazon.com/gp/help/customer/display.html?nodeId=14309551 ] 
 
- Each item in your order is sold by Amazon Export Sales, Inc. ("Amazon Export") 
+ Each item in your order is sold by Amazon Export Sales, LLC. ("Amazon Export") 
 or the merchant that the item is specified as sold by ("Merchant").
 
 Those items
