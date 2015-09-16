@@ -1,10 +1,10 @@
 [ TOS Watchdog retrieved from: http://www.amazon.com/gp/help/customer/display.html?nodeId=14309551 ] 
 
- Each item in your order is sold by Amazon Export Sales, LLC. ("Amazon Export") 
-or the merchant that the item is specified as sold by ("Merchant").
+ Each item in your order is sold by Amazon Export Sales LLC. ("Amazon Export") or
+ the merchant that the item is specified as sold by ("Merchant").
 
-Those items
- for shipment to countries outside of the U.S. may be subject to taxes, customs 
+Those items 
+for shipment to countries outside of the U.S. may be subject to taxes, customs 
 duties and fees levied by the destination country ("Import Fees"). The recipient
  of the shipment is the importer of record in the destination country and is 
 responsible for all Import Fees.
