@@ -1,8 +1,3 @@
 [ TOS Watchdog retrieved from: https://www.netflix.com/privacypolicy ] 
 
- It appears your browser does not accept cookies. To sign-up for a free one-month
- trial or to use the Netflix service, certain cookies are essential.
-
-Learn more
- about Netflix?s use of cookies by visiting our About Cookies and Internet 
-Advertising page.
+ 
