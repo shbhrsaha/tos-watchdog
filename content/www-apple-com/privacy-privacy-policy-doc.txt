@@ -169,4 +169,101 @@ ensure that your contact information and preferences are accurate, complete, and
 other personal information we hold, we will provide you with access for any 
 purpose including to request that we correct the data if it is inaccurate or 
 delete the data if Apple is not required to retain it by law or for legitimate 
-business purposes. We may decline to process requests
+business purposes. We may decline to process requests that are 
+frivolous/vexatious, jeopardize the privacy of others, are extremely 
+impractical, or for which access is not otherwise required by local law. Access,
+ correction, or deletion requests can be made through the regional Privacy 
+Contact?Form.
+
+We understand the importance of taking extra precautions to 
+protect the privacy and safety of children using Apple products and services. 
+Accordingly, we do not knowingly collect, use or disclose personal information 
+from children under 13, or equivalent minimum age in the relevant jurisdiction, 
+without verifiable parental consent. If we learn that we have collected the 
+personal information of a child under 13, or equivalent minimum age depending on
+ jurisdiction, without first receiving verifiable parental consent we will take 
+steps to delete the information as soon as possible.
+
+Children under the age of 
+13, or equivalent minimum age in the relevant jurisdiction, are not permitted to
+ create their own Apple IDs, unless their parent provided consent through the 
+Apple ID for Students Program or as part of the child account creation process 
+in Family Sharing. For example, a parent must review the Apple ID and Family 
+Sharing Disclosure and agree to the Consent to Apple?s Collection, Use and 
+Disclosure of Your Child?s Information; and the iTunes Store Terms and 
+Conditions, before they can begin the Apple ID account creation process for 
+their child. Learn more about Family Sharing, the Apple ID for Students program 
+and Restrictions for children?s accounts.
+
+If at any time a parent needs to 
+access, correct, or delete data associated with their Family Sharing account or 
+child?s Apple ID, they may contact us through our Privacy Contact Form.
+
+Or by 
+using the contact information here.
+
+To provide location-based services on Apple
+ products, Apple and our partners and licensees may collect, use, and share 
+precise location data, including the real-time geographic location of your Apple
+ computer or device. Where available, location-based services may use GPS, 
+Bluetooth, and your IP Address, along with crowd-sourced Wi-Fi hotspot and cell 
+tower locations, and other technologies to determine your devices? approximate 
+location. Unless you provide consent, this location data is collected 
+anonymously in a form that does not personally identify you and is used by Apple
+ and our partners and licensees to provide and improve location-based products 
+and services. For example, your device may share its geographic location with 
+application providers when you opt in to their location services.
+
+Some 
+location-based services offered by Apple, such as the ?Find My iPhone? feature, 
+require your personal information for the feature to?work.
+
+Apple websites, 
+products, applications, and services may contain links to third-party websites, 
+products, and services. Our products and services may also use or offer products
+ or services from third parties ? for example, a third?party iPhone app. 
+Information collected by third parties, which may include such things as 
+location data or contact details, is governed by their privacy practices. We 
+encourage you to learn about the privacy practices of those third parties.
+
+All 
+the information you provide may be transferred or accessed by entities around 
+the world as described in this Privacy Policy. Apple abides by the ?safe harbor?
+ frameworks set forth by the U.S. Department of Commerce regarding the 
+collection, use, and retention of personal information collected by 
+organizations in the European Economic Area and Switzerland. Learn more about 
+the U.S. Department of Commerce Safe Harbor?Program.
+
+Please note that personal 
+information, including the information provided when using iCloud, regarding 
+individuals who reside in a member state of the European Economic Area (EEA) and
+ Switzerland is controlled by Apple Distribution International in Cork, Ireland,
+ and processed on its behalf by Apple Inc. Personal information collected in the
+ EEA and Switzerland when using iTunes is controlled by iTunes SARL in 
+Luxembourg and processed on its behalf by Apple Inc.
+
+Apple abides by the Asia-
+Pacific Economic Cooperation (APEC) Cross Border Privacy Rules System. The APEC 
+CBPR system provides a framework for organizations to ensure protection of 
+personal information transferred among participating APEC economies.
+
+To make 
+sure your personal information is secure, we communicate our privacy and 
+security guidelines to Apple employees and strictly enforce privacy safeguards 
+within the company.
+
+If you have any questions or concerns about Apple?s Privacy
+ Policy or data processing or if you would like to make a complaint about a 
+possible breach of local privacy laws, please contact us. You can always contact
+ us by phone at the relevant Apple Support number for your?country.
+
+All such 
+communications are examined and replies issued where appropriate as soon as 
+possible. If you are unsatisfied with the reply received, you may refer your 
+complaint to the relevant regulator in your jurisdiction. If you ask us, we will
+ endeavor to provide you with information about relevant complaint avenues which
+ may be applicable to your circumstances.
+
+Apple may update its Privacy Policy 
+from time to time. When we change the policy in a material way, a notice will be
+ posted on our website along with the updated Privacy Policy.
