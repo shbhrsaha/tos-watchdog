@@ -13,7 +13,7 @@ Service is offered subject to your acceptance without modification of all of the
  terms and conditions contained herein, including the provisions calling for 
 arbitration of disputes that may arise out of use of the Service, and all other 
 operating rules, policies (including, without limitation, GroupMe's Privacy 
-Policy http://groupme.com/privacy) and procedures that may be published from 
+Policy https://groupme.com/privacy) and procedures that may be published from 
 time to time on this website by GroupMe (collectively, the "Terms").
 
 Please 
@@ -39,7 +39,7 @@ acknowledge that the Terms constitute a valid, binding agreement between you and
 The Service enables you to create unique groups with friends, coworkers, 
 and other individuals and then allows you send messages to individuals you or 
 others add to the group. Each unique group is given a ten digit telephone 
-number. GroupMe recommends that you go to http://groupme.com/apps and download 
+number. GroupMe recommends that you go to https://groupme.com/apps and download 
 the GroupMe application for messaging. Please note that any text messages sent 
 to the unique number will be sent to every individual in the group with the 
 exception of commands (always prefaced with a "#").
@@ -76,7 +76,7 @@ receiving text messages with GroupMe, should be aware that standard text
 messaging rates may apply. Please be aware that texting charges can fluctuate 
 internationally. Text messaging rates can normally be found by asking your 
 provider. If you are using GroupMe internationally, please read our 
-International SMS terms, available online here: http://groupme.com/t
+International SMS terms, available online here: https://groupme.com/t
 
 This SMS 
 Use Policy is designed to prevent fraud and abuse of our subscriptions by a 
@@ -88,7 +88,7 @@ an additive benefit. SMS usage is limited and any usage over 100 messages per
 month may lead to restricted use of SMS, required use of the downloadable 
 application and possibly termination of GroupMe SMS capabilities. To maintain 
 uninterrupted messaging, it is recommended that you go to 
-http://groupme.com/apps and download the GroupMe application for messaging.
+https://groupme.com/apps and download the GroupMe application for messaging.
 
 
 GroupMe offers you the ability to use Balanced as a service provider for payment
@@ -164,7 +164,7 @@ use of the Service to any individual or entity for any reason, in GroupMe's sole
 All users that use the GroupMe Service to store, post or share content 
 (including text, images, sound, video, data, information or software) via 
 GroupMe are subject to the GroupMe Code of Conduct, available online at 
-http://groupme.com/conduct
+https://groupme.com/conduct
 
 We respect the intellectual property of others. If 
 you think material shared in a GroupMe group violates any of your copyrights, 
@@ -184,7 +184,7 @@ prevent you from accessing any Content made available through or on the Service.
 
 
 Messages transmitted via GroupMe are subject to the GroupMe Privacy Policy, 
-available online at http://groupme.com/privacy
+available online at https://groupme.com/privacy
 
 We reserve the right to block 
 access to any Content and to terminate your or any group member's access to the 
@@ -323,6 +323,6 @@ termination of your use of the Services, the Terms themselves and, the
 fulfillment of all our and your obligations under the Terms*
 
 IMPORTANT NOTICE: 
-WE HAVE UPDATED OUR TERMS OF SERVICE http://groupme.com/terms By using GroupMe 
+WE HAVE UPDATED OUR TERMS OF SERVICE https://groupme.com/terms By using GroupMe 
 you are indicating that you have read, understood, and agree to the updated 
 Terms of Service.
