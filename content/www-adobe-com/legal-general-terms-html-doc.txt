@@ -41,16 +41,22 @@ enter into a binding contract.
  if you are (a) over 13 years old and (b) allowed by law to enter into a binding
  contract.
 
-You may have additional rights under the law. We do not seek to 
-limit those rights to the extent prohibited by law.
+For customers in Australia, Adobe Systems Software Ireland Limited 
+is acting as an authorized agent of Adobe Australia Trading Pty Ltd. and is 
+entering into this contract in its capacity as agent for Adobe Australia Trading
+ Pty Ltd.? You may have additional rights under the law. We do not seek to limit
+ those rights where it is prohibited by law.
 
-1.1? Choice of Law. If you 
-reside in North America, your relationship is with Adobe Systems Incorporated, a
- United States company, and the Services and Software are governed by the law of
- California, U.S.A. If you reside outside of North America, your relationship is
- with Adobe Systems Software Ireland Limited, and the Services and Software are 
-governed by the law of Ireland. ? You may have additional rights under the law. 
-We do not seek to limit those rights to the extent prohibited by law.
+1.1? Choice of Law. If you reside 
+in North America, your relationship is with Adobe Systems Incorporated, a United
+ States company, and the Services and Software are governed by the law of 
+California, U.S.A. If you reside outside of North America, your relationship is 
+with Adobe Systems Software Ireland Limited, and the Services and Software are 
+governed by the law of Ireland. ? For customers in Australia, Adobe Systems 
+Software Ireland Limited is acting as an authorized agent of Adobe Australia 
+Trading Pty Ltd. and is entering into this contract in its capacity as agent for
+ Adobe Australia Trading Pty Ltd.? You may have additional rights under the law.
+ We do not seek to limit those rights where it is prohibited by law.
 
 These 
 terms govern your use of our website or services such as the Creative Cloud 
