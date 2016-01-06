@@ -9,55 +9,58 @@ account, please visit our online help center at https://help.netflix.com, where
 you will also find information on how to contact our Customer Service for 
 assistance. For questions specifically concerning this Privacy Statement, or our
  use of your personal information, cookies or similar technologies, please 
-contact us via email at privacy@netflix.com. Alternatively, you can write to us 
-at the following address:
+contact us by email at privacy@netflix.com.
 
-Individuals who reside in Brazil are being provided 
-the service by Netflix Entretenimento Brasil, Ltda. Av. Bernardino de Campos, 98
- - 4? andar - sala 36, Paraiso, Cep 04004-040 SP Brasil.
+Alternatively, you can write to us 
+at the following address: Netflix, Inc., 100 Winchester Circle, Los Gatos, CA 
+95032, U.S.A. Attention: Privacy.
 
-Otherwise, Netflix, 
-Inc. (address above) is providing the service to you and is the data controller 
-(where applicable).
+Individuals who reside in Brazil are being 
+provided the service by Netflix Entretenimento Brasil, Ltda. Av. Bernardino de 
+Campos, 98 - 4? andar - sala 36, Paraiso, Cep 04004-040 SP Brasil.
 
-Please note that if you contact us to assist you, for your 
-safety and ours we may need to authenticate your identity before fulfilling your
- request.
+Otherwise, 
+Netflix, Inc. (address above) is providing the service to you and is the data 
+controller (where applicable)
+
+Please note that if you contact us to assist you,
+ for your safety and ours we may need to authenticate your identity before 
+fulfilling your request.
 
 We receive and store information about you such as:
 
-We use the 
-information we collect to provide, analyze, administer, enhance and personalize 
-our services and marketing efforts, to process your registration, your orders 
-and your payments, and to communicate with you on these and other topics. For 
-example, we use the information we collect for:
 
-We disclose your information 
-for certain purposes and to third parties, as described below:
+We use the information we collect to provide, analyze, administer, enhance and 
+personalize our services and marketing efforts, to process your registration, 
+your orders and your payments, and to communicate with you on these and other 
+topics. For example, we use the information we collect for:
 
-Whenever in the 
-course of sharing information we transfer personal information to countries 
-outside of the European Economic Area and other regions with comprehensive data 
-protection laws, we will ensure that the information is transferred in 
-accordance with this Privacy Statement and as permitted by the applicable laws 
-on data protection.
+We disclose your 
+information for certain purposes and to third parties, as described below:
 
-You may also choose to disclose your information in the 
-following ways:
 
-Social plugins and social applications are operated by the 
-social network themselves, and are subject to their terms of use and privacy 
-policies.
+Whenever in the course of sharing information we transfer personal information 
+to countries outside of the European Economic Area and other regions with 
+comprehensive data protection laws, we will ensure that the information is 
+transferred in accordance with this Privacy Statement and as permitted by the 
+applicable laws on data protection.
 
-In order to provide you with ease of access to your account and to 
-help administer the Netflix service, we implement technology that enables us to 
-recognize you as the account holder and provide you with direct access to your 
-account without requiring you to retype any password or other user 
-identification when you revisit the Netflix service. You can choose not to take 
-advantage of this feature on your computer by unchecking the box "Remember me on
- this device" when you log in to the website. To remove access to your Netflix 
-account from your devices: (a) visit "Your Account", choose "Sign out of all 
-devices", and follow the instructions to deactivate your devices (note, 
+You may also choose to disclose your 
+information in the following ways:
+
+Social plugins and social applications are 
+operated by the social network themselves, and are subject to their terms of use
+ and privacy policies.
+
+In order to provide you with ease of access to your 
+account and to help administer the Netflix service, we implement technology that
+ enables us to recognize you as the account holder and provide you with direct 
+access to your account without requiring you to retype any password or other 
+user identification when you revisit the Netflix service. You can choose not to 
+take advantage of this feature on your computer by unchecking the box "Remember 
+me on this device" when you log in to the website. To remove access to your 
+Netflix account from your devices: (a) visit "Your Account", choose "Sign out of
+ all devices", and follow the instructions to deactivate your devices (note, 
 deactivation may not occur immediately) or (b) delete your Netflix settings from
  your device (steps vary by device and the option is not available on all 
 devices). Where possible, users of public or shared devices should log out at 
@@ -84,69 +87,72 @@ to your account, and if you do not wish them to use or update your profile, be
 sure to let them know.
 
 If you no longer want to receive certain communications 
-from us via email, simply access the "Email preferences" link on the "Your 
-Account" page of our website and uncheck those items to unsubscribe, or click 
-the "unsubscribe" link in the email. Please note that you cannot unsubscribe 
-from certain correspondence from us, such as messages relating to your account 
-transactions. You can opt in to receive push notifications from Netflix. If you 
-subsequently decide you no longer wish to receive these notifications, you can 
-use your mobile device?s settings functionality to turn them off.
+from us via email or SMS, simply access the email and text messages settings 
+page in the "Your Account" section of our website and uncheck those items to 
+unsubscribe. Alternatively, click the "unsubscribe" link in the email or reply 
+STOP (or as otherwise instructed) to the SMS message. Please note that you 
+cannot unsubscribe from certain email correspondence from us, such as messages 
+relating to your account transactions.
 
-To exercise 
-choices regarding cookies set through our website, as well as other types of 
-online tracking and Internet advertising, see the Cookies and Internet 
-Advertising section (below).
+You can opt in to receive mobile push 
+notifications from Netflix. If you subsequently decide you no longer wish to 
+receive these notifications, you can use your mobile device?s settings 
+functionality to turn them off.
 
-We give you access and the ability to update a 
-broad range of information about your account, including your contact 
-information and your communication preferences in the "Your Account" portion of 
-our website. You must be signed in to access "Your Account."
+To exercise choices regarding cookies set 
+through our website, as well as other types of online tracking and Internet 
+advertising, see the Cookies and Internet Advertising section (below).
 
-If you have a 
-question regarding our privacy practices, or want to exercise your rights 
-regarding your personal information, please contact us at privacy@netflix.com.
+We give 
+you access and the ability to update a broad range of information about your 
+account, including your contact information and your communication preferences 
+in the "Your Account" portion of our website. You must be signed in to access 
+"Your Account."
 
+If you have a question regarding our privacy practices, or want
+ to exercise your rights regarding your personal information, please contact us 
+at privacy@netflix.com.
 
-We believe we use reasonable administrative, logical, physical and managerial 
-measures to safeguard your personal information against loss, theft and 
-unauthorized access, use and modification. Unfortunately, no measures can be 
-guaranteed to provide 100% security. Accordingly, we cannot guarantee the 
-security of your information.
+We believe we use reasonable administrative, logical, 
+physical and managerial measures to safeguard your personal information against 
+loss, theft and unauthorized access, use and modification. Unfortunately, no 
+measures can be guaranteed to provide 100% security. Accordingly, we cannot 
+guarantee the security of your information.
 
-The Netflix service may be provided through 
-platforms or contain links to sites operated by third parties whose policies 
-regarding the handling of information may differ from ours. For example, you may
- be able to access the Netflix service through platforms such as gaming systems,
- smart TVs, mobile devices, set top boxes and a number of other Internet 
-connected devices. These websites and platforms have separate and independent 
-privacy or data policies, privacy statements, notices and terms of use, which we
- recommend you read carefully. In addition, you may encounter third party 
-applications that interact with the Netflix service.
+The Netflix service may be provided
+ through platforms or contain links to sites operated by third parties whose 
+policies regarding the handling of information may differ from ours. For 
+example, you may be able to access the Netflix service through platforms such as
+ gaming systems, smart TVs, mobile devices, set top boxes and a number of other 
+Internet connected devices. These websites and platforms have separate and 
+independent privacy or data policies, privacy statements, notices and terms of 
+use, which we recommend you read carefully. In addition, you may encounter third
+ party applications that interact with the Netflix service.
 
-You must be 18 years of 
-age or older to subscribe to the Netflix service. In certain jurisdictions, the 
-age of majority may be older than 18, in which case, you must satisfy that age 
-in order to become a member. While individuals under the age of 18 may utilize 
-the service, they may do so only with the involvement, supervision, and approval
- of a parent or legal guardian.
+You must be 18 
+years of age or older to subscribe to the Netflix service. In certain 
+jurisdictions, the age of majority may be older than 18, in which case, you must
+ satisfy that age in order to become a member. While individuals under the age 
+of 18 may utilize the service, they may do so only with the involvement, 
+supervision, and approval of a parent or legal guardian.
 
-We will update this Privacy Statement from time
- to time in response to changing legal, regulatory or operational requirements. 
-We will provide notice of any such changes (including when they will take 
-effect) in accordance with law. Your continued use of the Netflix service after 
-any such updates take effect will constitute acceptance of those changes. If you
- do not accept any updates to this Privacy Statement, you may cancel your use of
- the Netflix service. To see when this Privacy Statement was last updated, 
-please see the "Last Updated" section below.
+We will update this 
+Privacy Statement from time to time in response to changing legal, regulatory or
+ operational requirements. We will provide notice of any such changes (including
+ when they will take effect) in accordance with law. Your continued use of the 
+Netflix service after any such updates take effect will constitute acceptance of
+ those changes. If you do not accept any updates to this Privacy Statement, you 
+may cancel your use of the Netflix service. To see when this Privacy Statement 
+was last updated, please see the "Last Updated" section below.
 
-We and our Service Providers use 
-cookies and other technologies (such as web beacons) for various reasons. For 
-example, we use cookies and other technologies to make it easy to access our 
-services by remembering you when you return, to provide and analyze our 
-services, to learn more about our users and their likely interests, and to 
-deliver and tailor marketing or advertising. We want you to be informed about 
-our use of these technologies, so this notice explains the types of technologies
- we use, what they do and your choices regarding their use.
+We and our 
+Service Providers use cookies and other technologies (such as web beacons) for 
+various reasons. For example, we use cookies and other technologies to make it 
+easy to access our services by remembering you when you return, to provide and 
+analyze our services, to learn more about our users and their likely interests, 
+and to deliver and tailor marketing or advertising. We want you to be informed 
+about our use of these technologies, so this notice explains the types of 
+technologies we use, what they do and your choices regarding their use.
 
-To see the prior 
-version of this document, please go to www.netflix.com/privacyupdates.
+To see 
+the prior version of this document, please go to www.netflix.com/privacyupdates.
