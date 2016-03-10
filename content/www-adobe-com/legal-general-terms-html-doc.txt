@@ -29,283 +29,287 @@ certain countries. It is your responsibility to make sure your use of the
 Services is legal where you use them. Services are not available in all 
 languages.
 
-1.2? Eligibility .?You may only use the Services if you are (a) over
- 13 years old and (b) allowed by law to enter into a binding contract.
+1.3.?The Privacy Policy at http://www.adobe.com/go/privacy governs 
+any personal information you provide to us.?By using the Services or Software 
+you agree to the terms of the Privacy Policy.
 
-1.2? 
-Eligibility .?You may only use the Services if you are (a) over 13 years old and
- (b) allowed by law to enter into a binding contract.
+1.2? Eligibility .?You may only 
+use the Services if you are (a) over 13 years old and (b) allowed by law to 
+enter into a binding contract.
 
-For customers in 
-Australia, Adobe Systems Software Ireland Limited is acting as an authorized 
-agent of Adobe Australia Trading Pty Ltd. and is entering into this contract in 
-its capacity as agent for Adobe Australia Trading Pty Ltd.? You may have 
-additional rights under the law. We do not seek to limit those rights where it 
-is prohibited by law.
+1.2? Eligibility .?You may only use the Services
+ if you are (a) over 13 years old and (b) allowed by law to enter into a binding
+ contract.
 
-1.1? Choice of Law. If you reside in North America, your 
-relationship is with Adobe Systems Incorporated, a United States company, and 
-the Services and Software are governed by the law of California, U.S.A. If you 
-reside outside of North America, your relationship is with Adobe Systems 
-Software Ireland Limited, and the Services and Software are governed by the law 
-of Ireland. ? For customers in Australia, Adobe Systems Software Ireland Limited
- is acting as an authorized agent of Adobe Australia Trading Pty Ltd. and is 
+For customers in Australia, Adobe Systems Software Ireland Limited 
+is acting as an authorized agent of Adobe Australia Trading Pty Ltd. and is 
 entering into this contract in its capacity as agent for Adobe Australia Trading
  Pty Ltd.? You may have additional rights under the law. We do not seek to limit
  those rights where it is prohibited by law.
 
-These terms govern your use of our
- website or services such as the Creative Cloud (collectively, ? Services ?) and
- software that we include as part of the Services, including any applications, 
-Content Files (defined below), scripts, instruction sets, and any related 
-documentation (collectively ? Software ?). By using the Services or Software, 
-you agree to these terms. If you have entered into another agreement with us 
-concerning specific Services or Software, then the terms of that agreement 
-controls where it conflicts with these terms.? As discussed more in Section 3 
-below, you retain all rights and ownership you have in your content that you 
-make available through the Services.
+1.1? Choice of Law. If you reside 
+in North America, your relationship is with Adobe Systems Incorporated, a United
+ States company, and the Services and Software are governed by the law of 
+California, U.S.A. If you reside outside of North America, your relationship is 
+with Adobe Systems Software Ireland Limited, and the Services and Software are 
+governed by the law of Ireland. ? For customers in Australia, Adobe Systems 
+Software Ireland Limited is acting as an authorized agent of Adobe Australia 
+Trading Pty Ltd. and is entering into this contract in its capacity as agent for
+ Adobe Australia Trading Pty Ltd.? You may have additional rights under the law.
+ We do not seek to limit those rights where it is prohibited by law.
 
-These terms govern your use of our website
- or services such as the Creative Cloud (collectively, ? Services ?) and 
-software that we include as part of the Services, including any applications, 
-Content Files (defined below), scripts, instruction sets, and any related 
-documentation (collectively ? Software ?). By using the Services or Software, 
-you agree to these terms. If you have entered into another agreement with us 
-concerning specific Services or Software, then the terms of that agreement 
-controls where it conflicts with these terms.? As discussed more in Section 3 
-below, you retain all rights and ownership you have in your content that you 
-make available through the Services.
+These 
+terms govern your use of our website or services such as the Creative Cloud 
+(collectively, ? Services ?) and software that we include as part of the 
+Services, including any applications, Content Files (defined below), scripts, 
+instruction sets, and any related documentation (collectively ? Software ?). By 
+using the Services or Software, you agree to these terms. If you have entered 
+into another agreement with us concerning specific Services or Software, then 
+the terms of that agreement controls where it conflicts with these terms.? As 
+discussed more in Section 3 below, you retain all rights and ownership you have 
+in your content that you make available through the Services.
 
-1.6?Order of Precedence.?If there is any 
-conflict between the terms in this Agreement and the Additional Terms, then the 
-Additional Terms govern in relation to that Service or Software.
+These terms 
+govern your use of our website or services such as the Creative Cloud 
+(collectively, ? Services ?) and software that we include as part of the 
+Services, including any applications, Content Files (defined below), scripts, 
+instruction sets, and any related documentation (collectively ? Software ?). By 
+using the Services or Software, you agree to these terms. If you have entered 
+into another agreement with us concerning specific Services or Software, then 
+the terms of that agreement controls where it conflicts with these terms.? As 
+discussed more in Section 3 below, you retain all rights and ownership you have 
+in your content that you make available through the Services.
 
+1.6?Order of 
+Precedence.?If there is any conflict between the terms in this Agreement and the
+ Additional Terms, then the Additional Terms govern in relation to that Service 
+or Software.
 
-1.7?Modification.?We may modify, update, or discontinue the Services, Software 
-(including any of their portions or features) at any time without liability to 
-you or anyone else. However, we will make reasonable effort to notify you before
- we make the change. We will also allow you a reasonable time to download your 
-content. If we discontinue a Service in its entirety, then we will provide you 
-with a pro rata refund for any unused fees for that Service that you may have 
-prepaid.
+1.7?Modification.?We may modify, update, or discontinue the 
+Services, Software (including any of their portions or features) at any time 
+without liability to you or anyone else. However, we will make reasonable effort
+ to notify you before we make the change. We will also allow you a reasonable 
+time to download your content. If we discontinue a Service in its entirety, then
+ we will provide you with a pro rata refund for any unused fees for that Service
+ that you may have prepaid.
 
-2.1?License.?Subject to your compliance with these terms and the law, 
-you may access and use the Services.
+2.1?License.?Subject to your compliance with these 
+terms and the law, you may access and use the Services.
 
-2.2?Adobe Intellectual Property.?We (and 
-our licensors) remain the sole owner of all right, title, and interest in the 
-Services and Software. We reserve all rights not granted under these terms.
+2.2?Adobe Intellectual 
+Property.?We (and our licensors) remain the sole owner of all right, title, and 
+interest in the Services and Software. We reserve all rights not granted under 
+these terms.
 
+2.3?Storage.?When the Services provide storage, we recommend that 
+you continue to back up your content regularly. We may create reasonable 
+technical limits on your content, such as limits on file size, storage space, 
+processing capacity, and other technical limits. We may suspend the Services 
+until you are within the storage space limit associated with your account.
 
-2.3?Storage.?When the Services provide storage, we recommend that you continue 
-to back up your content regularly. We may create reasonable technical limits on 
-your content, such as limits on file size, storage space, processing capacity, 
-and other technical limits. We may suspend the Services until you are within the
- storage space limit associated with your account.
-
-2.4?User-Generated 
-Content.?We may host user-generated content from our users. If you access our 
-Services, you may come across content that you find offensive or upsetting. Your
- sole remedy is to simply stop viewing the content. If available, you may also 
-click on the ?Report? button to report the content to us.
-
-2.5?Content 
-Files.??Content Files? means Adobe-provided sample files such as stock images or
- sounds. Unless the documentation or specific license associated with the 
-Content Files state otherwise, you may use, display, modify, reproduce, and 
-distribute any of the Content Files. However, you may not distribute the Content
- Files on a stand-alone basis (i.e., in circumstances in which the Content Files
- constitute the primary value of the product being distributed), and you must 
-not claim any trademark rights in the Content Files or derivative works of the 
-Content Files.
-
-(a)?NFR Version.?We may designate the Software or Services as 
-?trial?, ?evaluation?, ?not for resale?, or other similar designation (?NFR 
-Version?). You may install and use the NFR Version only during the period and 
-only for the purposes that we have stated when we provide the NFR Version. You 
-must not use any materials you produce with the NFR Version for anything other 
-than non-commercial purposes.
-
-(b)?Pre-release Version.?We may designate the 
-Software or Services as a pre-release or beta version (?Pre-release Version?). 
-Pre-release Version does not represent the final product and may contain bugs 
-that may cause system or other failure and data loss. We may choose not to 
-commercially release the Pre-release Version. You must promptly cease using the 
-Pre-release Version and destroy all copies of Pre-release Version if we request 
-you to do so, or if we release a commercial version of the Pre-release Version. 
-Any separate agreement we enter into with you governing the Pre-release Version 
-will supersede the provisions on Pre-Release Version set out in this section.
+2.4
+?User-Generated Content.?We may host user-generated content from our users. If 
+you access our Services, you may come across content that you find offensive or 
+upsetting. Your sole remedy is to simply stop viewing the content. If available,
+ you may also click on the ?Report? button to report the content to us.
 
 
-3.1?Ownership. You retain all rights and ownership of your content. We do not 
-claim any ownership rights to your content.
+2.5?Content Files.??Content Files? means Adobe-provided sample files such as 
+stock images or sounds. Unless the documentation or specific license associated 
+with the Content Files state otherwise, you may use, display, modify, reproduce,
+ and distribute any of the Content Files. However, you may not distribute the 
+Content Files on a stand-alone basis (i.e., in circumstances in which the 
+Content Files constitute the primary value of the product being distributed), 
+and you must not claim any trademark rights in the Content Files or derivative 
+works of the Content Files.
 
-3.2?Licenses to Your Content in 
-Order to Operate the Services.?We require certain licenses from you to your 
-content to operate and enable the Services. When you upload content to the 
-Services, you grant us a non-exclusive, worldwide, royalty-free, sub-licensable,
- and transferrable license to use, reproduce, publicly display, distribute, 
-modify (so as to better showcase your content, for example), publicly perform, 
-and translate the content as needed in response to user driven actions (such as 
-when you choose to store privately or share your content with others).?This 
-license is only for the purpose of operating or improving the Services.
+(a)?NFR Version.?We may designate the Software or 
+Services as ?trial?, ?evaluation?, ?not for resale?, or other similar 
+designation (?NFR Version?). You may install and use the NFR Version only during
+ the period and only for the purposes that we have stated when we provide the 
+NFR Version. You must not use any materials you produce with the NFR Version for
+ anything other than non-commercial purposes.
 
-3.3?Our
- Access.?We will not access, view, or listen to any of your content, except as 
-reasonably necessary to perform the Services. Actions reasonably necessary to 
-perform the Services may include (but are not limited to) (a)?responding to 
-support requests; (b)?detecting, preventing, or otherwise addressing fraud, 
-security, unlawful, or technical issues; and (c)?enforcing these terms.
+(b)?Pre-release Version.?We may 
+designate the Software or Services as a pre-release or beta version (?Pre-
+release Version?). Pre-release Version does not represent the final product and 
+may contain bugs that may cause system or other failure and data loss. We may 
+choose not to commercially release the Pre-release Version. You must promptly 
+cease using the Pre-release Version and destroy all copies of Pre-release 
+Version if we request you to do so, or if we release a commercial version of the
+ Pre-release Version. Any separate agreement we enter into with you governing 
+the Pre-release Version will supersede the provisions on Pre-Release Version set
+ out in this section.
 
-
-(a)?Sharing.?Some Services may provide features that allow you to Share your 
-content with other users or to make it public. ?Share? means to email, post, 
-transmit, upload, or otherwise make available (whether to us or other users) 
-through your use of the Services. Other users may use, copy, modify, or re-share
- your content in many ways. Please consider carefully what you choose to Share 
-or make public as you are entirely responsible for the content that you Share.
-
-
-(b)?Level of Access.?We do not monitor or control what others do with your 
-content. You are responsible for determining the limitations that are placed on 
-your content and for applying the appropriate level of access to your content. 
-If you do not choose the access level to apply to your content, the system may 
-default to its most permissive setting. It?s your responsibility to let other 
-users know how your content may be shared and adjust the setting related to 
-accessing or sharing of your content.
-
-(c)?Comments.?The Services may allow you 
-to comment on content. Comments are not anonymous, and may be viewed by other 
-users. Your comments may be deleted by you, other users, or us.
-
-3.5?Termination
- of License.?You may revoke this license to your content and terminate our 
-rights at any time by removing your content from the Service. However, some 
-copies of your content may be retained as part of our routine backups.
+3.1?Ownership. You retain all rights and ownership of 
+your content. We do not claim any ownership rights to your content.
 
 
-3.6?Feedback.?You have no obligation to provide us with ideas, suggestions, or 
-proposals (?Feedback?). However, if you submit Feedback to us, then you grant us
- a non-exclusive, worldwide, royalty-free license that is sub-licensable and 
-transferrable, to make, use, sell, have made, offer to sell, import, reproduce, 
-publicly display, distribute, modify, and publicly perform the Feedback.
+3.2?Licenses to Your Content in Order to Operate the Services.?We require 
+certain licenses from you to your content to operate and enable the Services. 
+When you upload content to the Services, you grant us a non-exclusive, 
+worldwide, royalty-free, sub-licensable, and transferrable license to use, 
+reproduce, publicly display, distribute, modify (so as to better showcase your 
+content, for example), publicly perform, and translate the content as needed in 
+response to user driven actions (such as when you choose to store privately or 
+share your content with others).?This license is only for the purpose of 
+operating or improving the Services.
+
+3.3?Our Access.?We will not access, view, 
+or listen to any of your content, except as reasonably necessary to perform the 
+Services. Actions reasonably necessary to perform the Services may include (but 
+are not limited to) (a)?responding to support requests; (b)?detecting, 
+preventing, or otherwise addressing fraud, security, unlawful, or technical 
+issues; and (c)?enforcing these terms.
+
+(a)?Sharing.?Some Services may provide 
+features that allow you to Share your content with other users or to make it 
+public. ?Share? means to email, post, transmit, upload, or otherwise make 
+available (whether to us or other users) through your use of the Services. Other
+ users may use, copy, modify, or re-share your content in many ways. Please 
+consider carefully what you choose to Share or make public as you are entirely 
+responsible for the content that you Share.
+
+(b)?Level of Access.?We do not 
+monitor or control what others do with your content. You are responsible for 
+determining the limitations that are placed on your content and for applying the
+ appropriate level of access to your content. If you do not choose the access 
+level to apply to your content, the system may default to its most permissive 
+setting. It?s your responsibility to let other users know how your content may 
+be shared and adjust the setting related to accessing or sharing of your 
+content.
+
+(c)?Comments.?The Services may allow you to comment on content. 
+Comments are not anonymous, and may be viewed by other users. Your comments may 
+be deleted by you, other users, or us.
+
+3.5?Termination of License.?You may 
+revoke this license to your content and terminate our rights at any time by 
+removing your content from the Service. However, some copies of your content may
+ be retained as part of our routine backups.
+
+3.6?Feedback.?You have no 
+obligation to provide us with ideas, suggestions, or proposals (?Feedback?). 
+However, if you submit Feedback to us, then you grant us a non-exclusive, 
+worldwide, royalty-free license that is sub-licensable and transferrable, to 
+make, use, sell, have made, offer to sell, import, reproduce, publicly display, 
+distribute, modify, and publicly perform the Feedback.
+
+3.7?Selling Your 
+Content.?We may allow you to license your content to other users through our 
+Services. If available, you may choose to license your content through us under 
+a separate agreement or directly to other users under an agreement between you 
+and the buyer.
+
+You are responsible for all activity that occurs via your 
+account. Please notify Customer Support immediately if you become aware of any 
+unauthorized use of your account. You may not (a) Share your account information
+ (except with an authorized account administrator) or (b) use another person?s 
+account. Your account administrator may use your account information to manage 
+your use and access to the Services.
+
+5.1?Responsible Use.?The Adobe communities
+ often consist of users who expect a certain degree of courtesy and 
+professionalism. You must use the Services responsibly.
+
+5.2?Misuse.?You must 
+not misuse the Services, Software, or content that we provide to you as part of 
+the Services. For example, you must not:
+
+(a) copy, modify, host, stream, 
+sublicense, or resell the Services, Software, or content;
+
+(b) enable or allow 
+others to use the Service, Software, or content using your account information;
 
 
-3.7?Selling Your Content.?We may allow you to license your content to other 
-users through our Services. If available, you may choose to license your content
- through us under a separate agreement or directly to other users under an 
-agreement between you and the buyer.
+(c) use the content or Software included in the Services to construct any kind
+ of database;
 
-You are responsible for all activity that 
-occurs via your account. Please notify Customer Support immediately if you 
-become aware of any unauthorized use of your account. You may not (a) Share your
- account information (except with an authorized account administrator) or (b) 
-use another person?s account. Your account administrator may use your account 
-information to manage your use and access to the Services.
+(d) access or attempt to access the Services by any means other 
+than the interface we provided or authorized;
 
-5.1?Responsible 
-Use.?The Adobe communities often consist of users who expect a certain degree of
- courtesy and professionalism. You must use the Services responsibly.
+(e) circumvent any access or use 
+restrictions put into place to prevent certain uses of the Services;
 
+(f) share 
+content or engage in behavior that violates anyone?s Intellectual Property Right
+ (?Intellectual Property Rights? means copyright, moral rights, trademark, trade
+ dress, patent, trade secret, unfair competition, right of privacy, right of 
+publicity, and any other proprietary rights.);
 
-5.2?Misuse.?You must not misuse the Services, Software, or content that we 
-provide to you as part of the Services. For example, you must not:
+(g) upload or share any content 
+that is unlawful, harmful, threatening, abusive, tortious, defamatory, libelous,
+ vulgar, lewd, profane, invasive of another?s privacy, or hateful;
 
-(a) copy, 
-modify, host, stream, sublicense, or resell the Services, Software, or content;
+(h) 
+impersonate any person or entity, or falsely state or otherwise misrepresent 
+your affiliation with a person or entity;
 
+(i) attempt to disable, impair, or 
+destroy the Services, software, or hardware;
 
-(b) enable or allow others to use the Service, Software, or content using your
- account information;
+(j) disrupt, interfere with, or 
+inhibit any other user from using the Services (such as stalking, intimidating, 
+or harassing others, inciting others to commit violence, or harming minors in 
+any way),
 
-(c) use the content or Software included in the Services 
-to construct any kind of database;
+(k) engage in chain letters, junk mails, pyramid schemes, spamming, 
+or other unsolicited messages;
 
-(d) access or attempt to access the Services
- by any means other than the interface we provided or authorized;
+(l) place advertisement of any products or 
+services in the Services;
 
-(e) 
-circumvent any access or use restrictions put into place to prevent certain uses
- of the Services;
+(m) use any data mining or similar data gathering and
+ extraction methods in connection with the Services; or
 
-(f) share content or engage in behavior that violates 
-anyone?s Intellectual Property Right (?Intellectual Property Rights? means 
-copyright, moral rights, trademark, trade dress, patent, trade secret, unfair 
-competition, right of privacy, right of publicity, and any other proprietary 
-rights.);
+6.1?Taxes and Third-
+Party Fees.?You must pay any applicable taxes, and any applicable third-party 
+fee (including, for example telephone toll charges, mobile carrier fees, ISP 
+charges, data plan charges, credit card fees, foreign exchange fees). We are not
+ responsible for these fees. We may take steps to collect the fees you owe us. 
+You are responsible for all related collection costs and expenses.
 
-(g) upload or share any content that is unlawful, harmful, 
-threatening, abusive, tortious, defamatory, libelous, vulgar, lewd, profane, 
-invasive of another?s privacy, or hateful;
-
-(h) impersonate any person or 
-entity, or falsely state or otherwise misrepresent your affiliation with a 
-person or entity;
-
-(i) attempt to disable, impair, or destroy the Services, 
-software, or hardware;
-
-(j) disrupt, interfere with, or inhibit any other user 
-from using the Services (such as stalking, intimidating, or harassing others, 
-inciting others to commit violence, or harming minors in any way),
-
-(k) engage 
-in chain letters, junk mails, pyramid schemes, spamming, or other unsolicited 
-messages;
-
-(l) place advertisement of any products or services in the Services;
+6.2?Credit 
+Card Information.?If you do not notify us of updates to your payment method, to 
+avoid interruption of your service, we may participate in programs supported by 
+your card provider to try to update your payment information, and you authorize 
+us to continue billing your account with the updated information that we obtain.
 
 
-(m) use any data mining or similar data gathering and extraction methods in 
-connection with the Services; or
+.? By uploading your content to the Services, you agree that you have: (a)?all
+ necessary licenses and permissions, to use and Share your content and (b)?the 
+rights necessary to grant the licenses in these terms.
 
-6.1?Taxes and Third-Party Fees.?You must pay 
-any applicable taxes, and any applicable third-party fee (including, for example
- telephone toll charges, mobile carrier fees, ISP charges, data plan charges, 
-credit card fees, foreign exchange fees). We are not responsible for these fees.
- We may take steps to collect the fees you owe us. You are responsible for all 
-related collection costs and expenses.
+7.2?Indemnification.?You
+ will indemnify us and our subsidiaries, affiliates, officers, agents, 
+employees, partners, and licensors from any claim, demand, loss, or damages, 
+including reasonable attorneys? fees, arising out of or related to your content,
+ your use of the Services or Software, or your violation of these terms.
 
-6.2?Credit Card Information.?If you do 
-not notify us of updates to your payment method, to avoid interruption of your 
-service, we may participate in programs supported by your card provider to try 
-to update your payment information, and you authorize us to continue billing 
-your account with the updated information that we obtain.
 
-.? By uploading your 
-content to the Services, you agree that you have: (a)?all necessary licenses and
- permissions, to use and Share your content and (b)?the rights necessary to 
-grant the licenses in these terms.
+8.1?Unless stated in the Additional Terms, the Services and Software are 
+provided ?AS-IS.? To the maximum extent permitted by law, we disclaim all 
+warranties express or implied, including the implied warranties of non-
+infringement, merchantability, and fitness for a particular purpose. We make no 
+commitments about the content within the Services. We further disclaim any 
+warranty that (a) the Services or Software will meet your requirements or will 
+be constantly available, uninterrupted, timely, secure, or error-free; (b) the 
+results that may be obtained from the use of the Services or Software will be 
+effective, accurate, or reliable; (c) the quality of the Services or Software 
+will meet your expectations; or that (d) any errors or defects in the Services 
+or Software will be corrected.
 
-7.2?Indemnification.?You will indemnify us 
-and our subsidiaries, affiliates, officers, agents, employees, partners, and 
-licensors from any claim, demand, loss, or damages, including reasonable 
-attorneys? fees, arising out of or related to your content, your use of the 
-Services or Software, or your violation of these terms.
+8.2?We specifically disclaim any liability for 
+any actions resulting from your use of any Services or Software. You may use and
+ access the Services or Software at your own discretion and risk, and you are 
+solely responsible for any damage to your computer system or loss of data that 
+results from the use and access of any Service or Software.
 
-8.1?Unless stated in 
-the Additional Terms, the Services and Software are provided ?AS-IS.? To the 
-maximum extent permitted by law, we disclaim all warranties express or implied, 
-including the implied warranties of non-infringement, merchantability, and 
-fitness for a particular purpose. We make no commitments about the content 
-within the Services. We further disclaim any warranty that (a) the Services or 
-Software will meet your requirements or will be constantly available, 
-uninterrupted, timely, secure, or error-free; (b) the results that may be 
-obtained from the use of the Services or Software will be effective, accurate, 
-or reliable; (c) the quality of the Services or Software will meet your 
-expectations; or that (d) any errors or defects in the Services or Software will
- be corrected.
-
-8.2?We specifically disclaim any liability for any actions 
-resulting from your use of any Services or Software. You may use and access the 
-Services or Software at your own discretion and risk, and you are solely 
-responsible for any damage to your computer system or loss of data that results 
-from the use and access of any Service or Software.
-
-9.1?Unless stated in the 
-Additional Terms, we are not liable to you or anyone else for: (a) any loss of 
-use, data, goodwill, or profits, whether or not foreseeable; and (b) any 
-special, incidental, indirect, consequential, or punitive damages whatsoever 
+9.1?Unless stated 
+in the Additional Terms, we are not liable to you or anyone else for: (a) any 
+loss of use, data, goodwill, or profits, whether or not foreseeable; and (b) any
+ special, incidental, indirect, consequential, or punitive damages whatsoever 
 (even if we have been advised of the possibility of these damages), including 
 those (x) resulting from loss of use, data, or profits, whether or not 
 foreseeable, (y)based on any theory of liability, including breach of contract 
