@@ -160,73 +160,52 @@ Information you have provided (such as during registration), in order to send or
  help our Partners send ads and offers based on your presumed interests or 
 demographic information.
 
-We may combine any of the Information we collect, for 
-any of the above purposes, and may sometimes enhance the Information with other 
-information that we obtain from third party sources. Please also be aware that 
-if you choose to submit Information or content for publication (e.g., a letter 
-to our editors, comments sent to our television personalities, a posting to a 
-blog or a discussion board, or a video), we may publish that Information and 
-content, along with other Information about you (such as your name, screen name 
-or location). Likewise, if you register and create a profile with our Service, 
-the screen name you select as well as other content you submit to your profile 
-(e.g., photos, comments, video, reviews) will be displayed publicly on the 
-Service, is searchable, can be found by third parties and may be reused and 
-redistributed by us in our sole discretion. See our Terms of Use for details on 
-our use of content you submit.
-
 We may disclose the Information as follows:
 
-1. 
-To service providers or Partners that we have engaged to perform business-
-related functions on our behalf. This may include service providers that: (a) 
-conduct research and analytics; (b) create content; (c) provide customer, 
-technical or operational support; (d) conduct or support marketing (such as 
-email or advertising platforms); (e) fulfill orders and user requests; (f) 
-handle payments; (g) host our Services, forums and online communities; (h) 
-administer contests; (i) maintain databases; (j) send or support online or 
-mobile advertising; and (k) otherwise support our Services.
+1. To 
+service providers or Partners that we have engaged to perform business-related 
+functions on our behalf. This may include service providers that: (a) conduct 
+research and analytics; (b) create content; (c) provide customer, technical or 
+operational support; (d) conduct or support marketing (such as email or 
+advertising platforms); (e) fulfill orders and user requests; (f) handle 
+payments; (g) host our Services, forums and online communities; (h) administer 
+contests; (i) maintain databases; (j) send or support online or mobile 
+advertising; and (k) otherwise support our Services.
 
-2. In response to 
-legal process, for example, in response to a court order or a subpoena, a law 
+2. In response to legal 
+process, for example, in response to a court order or a subpoena, a law 
 enforcement or government agency's request or similar request.
 
-3. With third 
-parties in order to investigate, prevent, or take action (in our sole 
-discretion) regarding potentially illegal activities, suspected fraud, 
-situations involving potential threats to any person, us, or the Services, or 
-violations of our policies, the law or our Terms of Use, to verify or enforce 
-compliance with the policies governing our Services.
+4. We may 
+transfer some or all of your Information if we, or one of our business units, 
+undergoes a business transition, like a merger, acquisition by another company, 
+or sale of all or part of our assets, or if a substantial portion of our or of a
+ business unit's assets is sold or merged in this way.
 
-4. We may transfer some or
- all of your Information if we, or one of our business units, undergoes a 
-business transition, like a merger, acquisition by another company, or sale of 
-all or part of our assets, or if a substantial portion of our or of a business 
-unit's assets is sold or merged in this way.
+5. We may share the 
+Information with Turner Affiliates, so they can provide, improve and communicate
+ with you about their own, or their marketing partners' products and services.
 
-5. We may share the Information 
-with Turner Affiliates, so they can provide, improve and communicate with you 
-about their own, or their marketing partners' products and services.
 
-6. We may 
-share the Information with unaffiliated Partners and third parties (e.g., our 
-third party service providers, advertisers, advertising networks and platforms, 
-agencies, other marketers, magazine publishers, retailers, participatory 
-databases, and non-profit organizations) that wish to market products or 
-services to you.
+6. We may share the Information with unaffiliated Partners and third parties 
+(e.g., our third party service providers, advertisers, advertising networks and 
+platforms, agencies, other marketers, magazine publishers, retailers, 
+participatory databases, and non-profit organizations) that wish to market 
+products or services to you.
 
-Please note that the Services covered by this Privacy Policy 
-may offer content (e.g., contests, sweepstakes, promotions, games, applications,
- or social network integrations) that is sponsored by or co-branded with 
-identified third parties. By virtue of these relationships, the third parties 
-may obtain information from their visitors. We have no control over these third 
-parties' use of this information, which is subject to their own privacy 
-policies.
+Please note that the Services covered by this 
+Privacy Policy may offer content (e.g., contests, sweepstakes, promotions, 
+games, applications, or social network integrations) that is sponsored by or co-
+branded with identified third parties. By virtue of these relationships, the 
+third parties may obtain information from their visitors. We have no control 
+over these third parties' use of this information, which is subject to their own
+ privacy policies.
 
 IV. Cookies and Other User and Ad-Targeting Technologies.
 
-We use 
-cookies and other technologies both to provide our Services to you and to 
-advertise to you. We also may work with Partners to help them advertise to you 
+
+We use cookies and other technologies both to provide our Services to you and to
+ advertise to you. We also may work with Partners to help them advertise to you 
 when you visit other websites or mobile applications, and to help them perform 
 user analytics. These technologies may also be used to analyze how our Users 
 interact with advertising on our Services and elsewhere, and more generally, to 
@@ -270,46 +249,25 @@ enhance data points about a particular unique browser or device, and thus enable
  us or others to send ads that are more relevant, match Users to their likely 
 product interests, or better synchronize, cap, or optimize advertising.
 
-3. 
-Locally Stored Objects. Services on the Turner Network may employ locally stored
- objects ("LSOs") and other client side storage tracking technologies in certain
- situations where they help to provide a better user experience, such as to 
-remember settings, preferences and usage similar to browser cookies, or in order
- to target or help our Partners target ads, analyze ad performance, or perform 
-user, website or market analytics. For LSOs utilized by Adobe Flash you can 
-access Flash management tools from Adobe's website. In addition, some, but not 
-all browsers, provide the ability to remove LSOs, sometimes within cookie and 
-privacy settings.
+Most 
+web browsers are set up to accept cookies. You may be able to set your browser 
+to warn you before accepting certain cookies or to refuse certain cookies. 
+However, if you disable the use of cookies in your web browser, some features of
+ the Services may be difficult to use or inoperable.
 
-Most web browsers are set up to accept cookies. You may be 
-able to set your browser to warn you before accepting certain cookies or to 
-refuse certain cookies. However, if you disable the use of cookies in your web 
-browser, some features of the Services may be difficult to use or inoperable.
+5. Web Beacons. We and our
+ Partners may also use "web beacons" or clear GIFs, or similar technologies, 
+which are small pieces of code placed on a Service or in an email, to monitor 
+the behavior and collect data about the visitors viewing a Service or email. For
+ example, web beacons may be used to count the users who visit a web page or to 
+deliver a cookie to the browser of a visitor viewing that Service. Web beacons 
+may also be used to provide information on the effectiveness of our email 
+campaigns (e.g., open rates, clicks, forwards, etc.).
 
-
-We may work with certain third-party companies that use techniques other than 
-HTTP cookies to recognize your computer or device and/or to collect and record 
-information about your web surfing activity, including those integrated with our
- Services. Please keep in mind that your web browser may not permit you to block
- the use of these techniques, and those browser settings that block conventional
- cookies may have no effect on such techniques. To learn more about Interest-
-Based Advertising or to opt-out of this type of advertising by those third 
-parties that are members of DAA's opt-out program, please go to 
-http://www.aboutads.info.
-
-5. Web Beacons. We and our Partners may also use "web
- beacons" or clear GIFs, or similar technologies, which are small pieces of code
- placed on a Service or in an email, to monitor the behavior and collect data 
-about the visitors viewing a Service or email. For example, web beacons may be 
-used to count the users who visit a web page or to deliver a cookie to the 
-browser of a visitor viewing that Service. Web beacons may also be used to 
-provide information on the effectiveness of our email campaigns (e.g., open 
-rates, clicks, forwards, etc.).
-
-We also sometimes use, or partner with 
-publishers, publisher-facing, or app developer platforms that use mobile 
-Software Development Kits ("SDKs"), or use an SDK with a mobile app that we 
-offer, to collect Information, such as mobile identifiers (e.g., IDFAs and 
+We also sometimes use, or
+ partner with publishers, publisher-facing, or app developer platforms that use 
+mobile Software Development Kits ("SDKs"), or use an SDK with a mobile app that 
+we offer, to collect Information, such as mobile identifiers (e.g., IDFAs and 
 Android Advertising IDs), and Information connected to how mobile devices 
 interact with our Services and those using our Services. A mobile SDK is the 
 mobile app version of a web beacon (see "Web Beacons" above). The SDK is a bit 
@@ -343,134 +301,120 @@ with ads that are relevant to you and for products you may want.
 However, we 
 also offer you choices with regard to interest-based ads.
 
-You may also find 
-more information about entities involved in online advertising and additional 
-choices you may make through the Network Advertising Initiative ("NAI") at the 
-NAI Service, and the Digital Advertising Alliance (the "DAA") at the DAA 
-consumer choice Service. Turner is a participant in the online industry's self-
-regulatory program administered by the DAA and has agreed to adhere to the DAA's
- principles applicable to interest-based ads.
+When using a mobile 
+application you may receive tailored in-application advertisements. Depending on
+ your device, you may be able to reset your mobile device's advertising 
+identifier at any time by accessing the privacy settings on your mobile device. 
+In addition, each operating system, iOS for Apple phones, Android for Android 
+devices and Windows for Microsoft devices, provides its own instructions on how 
+to prevent the delivery of tailored in-application advertisements. You may 
+review the support materials and/or the privacy settings for the respective 
+operating systems in order to opt-out of tailored in-application advertisements.
+ For any other devices and/or operating systems, please visit the privacy 
+settings for the applicable device or contact (or review the applicable privacy 
+web page of) the applicable platform operator.
 
-The tools provided on the Ad 
-Choices page, as well as the DAA opt-out page and the NAI opt-out page are 
-provided by third parties, not Turner. Turner does not control or operate these 
-tools or the choices that advertisers and others provide through these tools.
+VI. Other Important Information 
+About Your Privacy
 
+1. How We Respond to Do Not Track Signals
 
-When using a mobile application you may receive tailored in-application 
-advertisements. Depending on your device, you may be able to reset your mobile 
-device's advertising identifier at any time by accessing the privacy settings on
- your mobile device. In addition, each operating system, iOS for Apple phones, 
-Android for Android devices and Windows for Microsoft devices, provides its own 
-instructions on how to prevent the delivery of tailored in-application 
-advertisements. You may review the support materials and/or the privacy settings
- for the respective operating systems in order to opt-out of tailored in-
-application advertisements. For any other devices and/or operating systems, 
-please visit the privacy settings for the applicable device or contact (or 
-review the applicable privacy web page of) the applicable platform operator.
+At this time 
+Services on the Turner Network do not recognize automated browser signals 
+regarding tracking mechanisms, which may include "do not track" instructions.
 
 
-VI. Other Important Information About Your Privacy
+Some of the Services contain links to or integrations with other services such 
+as Facebook, Twitter, LinkedIn, and other media services and platforms whose 
+information practices may be different than ours. Visitors should consult these 
+other services' privacy notices as we have no control over information that is 
+submitted to, or collected by, these third parties.
 
-1. How We Respond to Do Not 
-Track Signals
+This Service is governed by
+ and operated in accordance with US law. If you are located outside of the US, 
+you use this Service at your own risk. Turner is a company that operates 
+globally so it is necessary to transfer your Information internationally. In 
+particular, your Information will be transferred to and processed in the United 
+States where many of our central databases operate. By using this Service, you 
+(a) acknowledge that the data protection and other laws of other countries, such
+ as the United States, may provide a less comprehensive or protective standard 
+of protection than those in your country, and consent to your Information being 
+collected, processed and transferred as set forth in this Privacy Policy and US 
+law.
 
-At this time Services on the Turner Network do not recognize 
-automated browser signals regarding tracking mechanisms, which may include "do 
-not track" instructions.
+We have put in place physical, electronic, and managerial procedures 
+designed to help prevent unauthorized access, to maintain data security, and to 
+use correctly the Information we collect online. These safeguards vary based on 
+the sensitivity of the Information that we collect and store.
 
-Some of the Services contain links to or integrations 
-with other services such as Facebook, Twitter, LinkedIn, and other media 
-services and platforms whose information practices may be different than ours. 
-Visitors should consult these other services' privacy notices as we have no 
-control over information that is submitted to, or collected by, these third 
-parties.
+Although we take 
+appropriate measures to safeguard against unauthorized disclosures of 
+Information, we cannot assure you that Information will never be disclosed, 
+altered or destroyed in a manner that is inconsistent with this Privacy Policy.
 
-This Service is governed by and operated in accordance with US law. If
- you are located outside of the US, you use this Service at your own risk. 
-Turner is a company that operates globally so it is necessary to transfer your 
-Information internationally. In particular, your Information will be transferred
- to and processed in the United States where many of our central databases 
-operate. By using this Service, you (a) acknowledge that the data protection and
- other laws of other countries, such as the United States, may provide a less 
-comprehensive or protective standard of protection than those in your country, 
-and consent to your Information being collected, processed and transferred as 
-set forth in this Privacy Policy and US law.
 
-We have put in place physical, 
-electronic, and managerial procedures designed to help prevent unauthorized 
-access, to maintain data security, and to use correctly the Information we 
-collect online. These safeguards vary based on the sensitivity of the 
-Information that we collect and store.
+5. How You Can Access or Correct Information
 
-Although we take appropriate measures to
- safeguard against unauthorized disclosures of Information, we cannot assure you
- that Information will never be disclosed, altered or destroyed in a manner that
- is inconsistent with this Privacy Policy.
+Access to certain personal 
+Information that is collected from our Services and that we maintain may be 
+available to you. For example, if you created a password-protected account 
+within our Service, you can access that account to review the Information you 
+provided.
 
-5. How You Can Access or Correct 
-Information
+You may also send an e-mail or letter to the following e-mail or 
+street address requesting access to or correction of your personal Information. 
+Please include your registration information for such service such as first 
+name, last name and e-mail address in the request. We may ask you to provide 
+additional information for identity verification purposes, or to verify that you
+ are in possession of an applicable email account.
 
-Access to certain personal Information that is collected from our 
-Services and that we maintain may be available to you. For example, if you 
-created a password-protected account within our Service, you can access that 
-account to review the Information you provided.
+6. How to Contact Us/Opting 
+Out of Marketing Communications
 
-You may also send an e-mail or 
-letter to the following e-mail or street address requesting access to or 
-correction of your personal Information. Please include your registration 
-information for such service such as first name, last name and e-mail address in
- the request. We may ask you to provide additional information for identity 
-verification purposes, or to verify that you are in possession of an applicable 
-email account.
+If you have any questions or concerns about the
+ online Privacy Policy for this Service or its implementation, or if you would 
+like to opt out from our sharing of your personal Information with unaffiliated 
+third parties for the third parties' direct marketing purposes you may contact 
+our Privacy Policy Coordinator at the above address and request that we opt you 
+out of such sharing. We may ask you to provide additional information for 
+identity verification purposes, or to verify that you are in possession of an 
+applicable email account.
 
-6. How to Contact Us/Opting Out of Marketing Communications
+If you have signed up to receive our e-mails and 
+prefer not to receive marketing information from this Service, follow the 
+"unsubscribe" instructions provided on any marketing e-mail you receive from 
+this Service. If you have signed up to receive text messages from us and no 
+longer wish to receive such messages, you may follow the instructions to stop 
+the delivery of such messages, which may include by replying "STOP" to the 
+received text message.
 
-If 
-you have any questions or concerns about the online Privacy Policy for this 
-Service or its implementation, or if you would like to opt out from our sharing 
-of your personal Information with unaffiliated third parties for the third 
-parties' direct marketing purposes you may contact our Privacy Policy 
-Coordinator at the above address and request that we opt you out of such 
-sharing. We may ask you to provide additional information for identity 
-verification purposes, or to verify that you are in possession of an applicable 
-email account.
+California's "Shine the Light" law, Civil Code section 
+1798.83, requires certain businesses to respond to requests from California 
+customers asking about the business' practices related to disclosing personal 
+information to third parties for the third parties' direct marketing purposes. 
+Alternately, businesses may have in place a policy not to disclose personal 
+information of customers to third parties for the third parties' direct 
+marketing purposes if the customer has exercised an option to opt-out of such 
+information-sharing. We have such a policy in place.
 
-If you have signed up to receive our e-mails and prefer not to 
-receive marketing information from this Service, follow the "unsubscribe" 
-instructions provided on any marketing e-mail you receive from this Service. If 
-you have signed up to receive text messages from us and no longer wish to 
-receive such messages, you may follow the instructions to stop the delivery of 
-such messages, which may include by replying "STOP" to the received text 
-message.
+Below is a representative 
+list of some of the Turner companies that currently may have access to the 
+Information collected from Users on our Services as set forth in this Privacy 
+Policy. We may update this list from time-to-time, so please check back 
+periodically to keep up-to-date.
 
-California's "Shine the Light" law, Civil Code section 1798.83, 
-requires certain businesses to respond to requests from California customers 
-asking about the business' practices related to disclosing personal information 
-to third parties for the third parties' direct marketing purposes. Alternately, 
-businesses may have in place a policy not to disclose personal information of 
-customers to third parties for the third parties' direct marketing purposes if 
-the customer has exercised an option to opt-out of such information-sharing. We 
-have such a policy in place.
+Below is a list of some of the Time Warner 
+companies that are affiliated with the Turner group companies and with whom we 
+may share Information we collect at our Services. We may update this list from 
+time-to-time with additional Time Warner companies, so please check back 
+periodically to keep up-to-date.
 
-Below is a representative list of some of the 
-Turner companies that currently may have access to the Information collected 
-from Users on our Services as set forth in this Privacy Policy. We may update 
-this list from time-to-time, so please check back periodically to keep up-to-
-date.
+From time to time, we may update this Privacy 
+Policy. We will notify you about material changes by either sending an email 
+message to the email address you most recently provided to us or by prominently 
+posting a notice on our Service. We encourage you to periodically check back and
+ review this policy so that you always will know what information we collect, 
+how we use it, and with whom we share it.
 
-Below is a list of some of the Time Warner companies that are affiliated 
-with the Turner group companies and with whom we may share Information we 
-collect at our Services. We may update this list from time-to-time with 
-additional Time Warner companies, so please check back periodically to keep up-
-to-date.
-
-From time to time, we may update this Privacy Policy. We will notify 
-you about material changes by either sending an email message to the email 
-address you most recently provided to us or by prominently posting a notice on 
-our Service. We encourage you to periodically check back and review this policy 
-so that you always will know what information we collect, how we use it, and 
-with whom we share it.
-
-The Privacy Policy posted on this Service was updated on
- July 31, 2015.
+The Privacy Policy posted on this 
+Service was updated on July 31, 2015.
