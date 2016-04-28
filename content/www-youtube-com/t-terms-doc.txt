@@ -95,7 +95,7 @@ substantive laws of the State of California, without respect to its conflict of
 laws principles. Any claim or dispute between you and YouTube that arises in 
 whole or in part from the Service shall be decided exclusively by a court of 
 competent jurisdiction located in Santa Clara County, California. These Terms of
- Service, together with the Privacy Notice at http://www.youtube.com/t/privacy 
+ Service, together with the Privacy Notice at https://www.youtube.com/t/privacy 
 and any other legal notices published by YouTube on the Service, shall 
 constitute the entire agreement between you and YouTube concerning the Service. 
 If any provision of these Terms of Service is deemed invalid by a court of 
