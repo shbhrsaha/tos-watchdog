@@ -1,3 +1,773 @@
 [ TOS Watchdog retrieved from: https://zynga.com/legal/terms-of-service ] 
 
- 
+ To review a copy of the prior version of Zynga?s Terms of Service, click here.
+
+
+IMPORTANT NOTICE: FOR U.S. AND CANADIAN PLAYERS, DISPUTES ABOUT THESE TERMS OR 
+RELATING TO ZYNGA SERVICES GENERALLY MUST BE RESOLVED BY BINDING ARBITRATION AND
+ ON AN INDIVIDUAL BASIS ONLY. For more details, go to Section 17.
+
+Please read 
+these Terms of Service and our Privacy Policy carefully before using Zynga 
+Services.
+
+Whenever you use the Services, you agree to be bound by all of the 
+terms and conditions of these Terms of Service. If you don?t agree to all the 
+terms and conditions you must not use our Services.
+
+References to ?Zynga,? ?Us?
+ or ?We? means Zynga Inc and Zynga?s Corporate Family.
+
+Zynga Inc. is located at
+ 699 8th Street, San Francisco, California 94103, if you?re in the United 
+States. If you?re not in the United States, then references to ?Zynga,? ?Us? or 
+?We? mean Zynga Game Ireland Limited located at 25-28 North Wall Quay, Dublin 1,
+ Ireland.
+
+Please note that as of January 1, 2015, all rights and 
+responsibilities previously belonging to Zynga Luxembourg S.a.r.l under the 
+Terms will belong to Zynga Game Ireland Limited.
+
+In all cases, ?Zynga,? ?Us,? 
+or ?We? includes agents, consultants, employees, officers and directors.
+
+means 
+an account you create when you access the Services.
+
+means the rules of conduct 
+that govern your interaction with our Services and other players and can be 
+found here.
+
+means any other rules related to specific services like platforms 
+and APIs, applications for mobile devices, forums, contests, subscriptions or 
+loyalty programs that We may publish which apply to your use of those specific 
+services and state they are part of these Terms.
+
+means special programs, 
+including offers, excursions, and special gifts, both digital and tactile, that 
+Zynga may offer from time to time to certain eligible players.
+
+refers to 
+products, games, services, content, Zynga.com and/or the other domains provided 
+by Zynga.
+
+means all the data that you upload or transmit on or through the 
+Service. This includes things like your profile picture or your in-game chat.
+
+
+means (a) virtual currency, including but not limited to virtual coins, cash, 
+tokens, or points, all for use in the Service and (b) virtual in-game items.
+
+
+refers to Zynga?s subsidiaries, parent companies, joint ventures and other 
+corporate entities under common ownership and/or any of their agents, 
+consultants, employees, officers and directors.
+
+refers to the Zynga Corporate 
+Family plus Zynga?s and the Zynga Corporate Family?s third-party content 
+providers, distributors, licensees or licensors.
+
+We reserve the right, at our 
+discretion, to change, modify, add or remove portions of the Terms, Community 
+Rules, Feature Terms, and Privacy Policy at any time by posting the amended 
+Terms, Community Rules, Feature Terms, or Privacy Policy on our sites or within 
+the Service (such as through in-game notices). We may provide additional notice,
+ such as an e-mail message or messaging within the Services, of any material 
+changes. Unless We state otherwise, changes are effective when posted. If you 
+continue to use the Services after the changes are posted you agree to the 
+changes. New versions of the Terms, the Community Rules and the Privacy Policy 
+and any other policies, codes or rules will be accessible at?www.zynga.com?or 
+from within the Services.
+
+If you have a dispute with Zynga, the version of the 
+Terms, the Community Rules, Feature Terms, and the Privacy Policy in effect at 
+the time Zynga received actual notice of the dispute will apply to such dispute.
+ However, if you keep using the Service after the changes are posted, you are 
+agreeing that the changes apply to your continued use of the Services.
+
+You 
+can?t make changes to the Terms, Community Rules, Feature Terms, or Privacy 
+Policy unless both you and Zynga sign a written amendment.
+
+If the Terms or the 
+Privacy Policy have provisions that conflict with other Zynga terms or policies,
+ the provisions in these Terms and the Privacy Policy win.
+
+In order to use our 
+Services, We may ask you to create an Account and select a password and/or 
+provide Us with certain personal information, which may include your name, birth
+ date, e-mail address, and, in some cases, payment information. This information
+ will be held and used in accordance with Zynga's?Privacy Policy.
+
+You agree to 
+supply Zynga with accurate, complete, and updated information, particularly your
+ email address.
+
+You are responsible for maintaining the security of your 
+Account. Don?t share your Account details with others or allow others to access 
+or use your Account. You are solely responsible for any activity in your Account
+ whether or not authorized by you, including purchases made using any payment 
+instrument (for example, credit card, PayPal or social network or platform 
+virtual currency).
+
+Tell Us immediately of any actual or suspected loss, theft, 
+fraud, or unauthorized use of your Account or Account password.
+
+Zynga's Privacy
+ Policy tells you how We collect and use information about you and your computer
+ or mobile device, and how you can use the Services to share such information 
+with others. You understand that through your use of our Services you 
+acknowledge the collection, use and sharing of this information as described in 
+Zynga?s Privacy Policy. If you don?t agree with the Privacy Policy, then you 
+must stop using our Services.
+
+We encourage you to read the Zynga Privacy Policy
+ carefully and use it to make informed decisions.
+
+Who can use our Service: We 
+are excited to have you start playing our games, but there are some limits on 
+who can use our Service.
+
+You may not use our Service if:
+
+If you are between 
+the ages of 13 and 17, or under the age of majority where you live, you 
+represent that your legal guardian has reviewed and agreed to these Terms.
+
+If 
+you use our Service, you must follow the Zynga Community Rules and all other 
+Feature Terms that may apply. These additional rules and terms apply in addition
+ to these Terms and are important. Please read them. If you access the Service 
+from a social network or download the Service from another platform, such as 
+Apple or Google, you must also comply with its terms of service/use as well as 
+these Terms.
+
+To access or play our games or create an account with Us, you may 
+need an account with a social network, like Facebook, and, if you are using our 
+mobile Service, an account with the company that provides your mobile 
+applications, like an iTunes account. You may need to update third party 
+software from time to time to receive the Service and play Zynga?s Games.
+
+We 
+provide the games. You provide the equipment (computer, phone, tablet, etc.) and
+ pay any fees to connect to the Internet and app stores, or for data or cellular
+ usage to download and use the Service.
+
+The Service is evolving and We may 
+require that you accept updates to the Service as well as to the Terms, 
+Community Rules, and the Zynga Privacy Policy. From time to time we may make you
+ update the game or your software to continue to use Our Services. We may 
+perform these updates remotely including to Zynga software residing on your 
+computer or mobile device, without notifying you.
+
+Zynga reserves the right to 
+stop offering and/or supporting the Service or a particular game or part of the 
+Service at any time either permanently or temporarily, at which point your 
+license to use the Service or any part of it will be automatically terminated or
+ suspended. If that happens, Zynga is not required to provide refunds, benefits 
+or other compensation to players in connection with discontinued elements of the
+ Service or for virtual goods previously earned or purchased.
+
+ZYNGA MAY, IN ITS
+ SOLE DISCRETION LIMIT, SUSPEND, TERMINATE, MODIFY, OR DELETE ACCOUNTS OR ACCESS
+ TO THE SERVICE OR ANY PORTION OF IT AND PROHIBIT ACCESS TO OUR GAMES AND SITES,
+ AND THEIR CONTENT, SERVICES AND TOOLS, DELAY OR REMOVE HOSTED CONTENT AND ZYNGA
+ IS UNDER NO OBLIGATION TO COMPENSATE YOU FOR ANY SUCH LOSSES OR RESULTS.
+
+If 
+you believe that any action has been taken against your Black Diamond Slots 
+account in error, please visit: http://risingtidegames.helpshift.com/a/black-
+diamond-casino, or if you believe that any action has been taken against your 
+Natural Motion game account in error, please email contact@naturalmotion.com.
+
+
+You may stop using the Service at any time and may request that We stop making 
+active use of your data at any time by following the instructions in the Privacy
+ Policy. Unless the local law where you are located requires otherwise, We are 
+not required to provide refunds, benefits or other compensation if you request 
+deletion of your Account.
+
+The Service is comprised of works owned by Zynga, and
+ it is protected by copyright, trademark, trade dress, patent and other US and 
+non-US intellectual property and other applicable laws, rules or regulations. 
+Zynga owns, has licensed, or otherwise has rights to use all of the content that
+ appears in the Service. These Terms do not grant you or any other party any 
+right, title or interest in the Service or any content in the Service.
+
+So long 
+as you abide by these Terms and any other rules, including the Community Rules, 
+Zynga grants you a non-exclusive, non-transferable, revocable limited license 
+subject to the limitations in these Terms, to access and use the Service using a
+ Zynga supported web browser or mobile device solely for your own non-commercial
+ entertainment purposes. You agree not to use the Service for any other purpose.
+
+
+If you violate these Terms, or any of Our other terms that apply to you, We 
+may take action against you, up to and including permanently suspending your 
+account. In addition, you may be breaking the law, including violations of 
+Zynga?s intellectual property rights. ANY ATTEMPT BY YOU TO DISRUPT OR INTERFERE
+ WITH THE SERVICE INCLUDING WITHOUT LIMITATION UNDERMINING OR MANIPULATING THE 
+LEGITIMATE OPERATION OF ANY ZYNGA GAME IS A VIOLATION OF ZYNGA POLICY AND MAY BE
+ A VIOLATION OF CRIMINAL AND CIVIL LAWS.
+
+Regardless of what anything else says 
+in these Terms, the Community Rules, or any other Feature Terms that apply to 
+features you may choose to use, you do not own the Account that you create on 
+Our Service, including in Our games, and your Account is not your property. This
+ also applies to other stuff, like in-game currency or items, regardless of 
+whether you ?earned? those items in a game or ?purchased? them. Your account and
+ any related items are owned by Zynga. Zynga gives you a limited license to use 
+your account and the related items while We offer the Services
+
+WE MAY DELETE OR
+ TERMINATE ACCOUNTS THAT ARE INACTIVE (I.E., NOT LOGGED INTO) FOR 180 DAYS.
+
+IF 
+YOU WANT US TO DELETE YOUR ACCOUNT, YOU CAN GO TO HERE FOR INSTRUCTIONS ON HOW 
+TO MAKE THAT REQUEST.
+
+You are not allowed to transfer Virtual Items outside of 
+the Service (i.e., in the ?real world?), for example by selling, gifting, or 
+trading them. We won?t recognize those transfers as legitimate. You are not 
+allowed to sublicense, trade, sell or attempt to sell in-game Virtual Items for 
+"real" money, or exchange Virtual Items for value of any kind outside of a game.
+ Any such transfer or attempted transfer is prohibited and void, and We may 
+terminate your Account because of it.
+
+If you transmit or upload User Content on
+ the Service, you agree that it will be:
+
+Your User Content will be processed by
+ Zynga in accordance with its Privacy Policy.
+
+You own your User Content, but 
+you give Zynga a perpetual and irrevocable (other than as provided below), 
+worldwide, fully paid-up and royalty free, non-exclusive, license to use your 
+User Content and any modified and derivative works thereof in connection with 
+the Service, including in marketing and promotions. To the extent allowed by 
+applicable laws, you waive any moral rights you may have in any User Content 
+(like the right to be identified as the author of the User Content or the right 
+to object to a certain use of that User Content).
+
+Zynga?s license to your User 
+Content ends when you request deletion of your User Content by submitting a 
+request to privacy@zynga.com, or for Black Diamond Slots, email 
+support@risingtidegames.com , or for Natural Motion games email 
+contact@naturalmotion.com stating that you no longer want Zynga to use your User
+ Content, with the following exceptions
+
+If you request deletion of your User 
+Content we will take reasonable steps to remove your User Content from active 
+use, which may include suppression of your User Content in our systems. However,
+ User Content may persist in our systems, including back-up copies. We may also 
+retain copies of User Content if we are legally required to do so.
+
+When you 
+post your observations and comments on the Service such as in forums, blogs and 
+chat features, We cannot guarantee that other players will not use the ideas and
+ information that you share. If you have an idea or information that you would 
+like to keep confidential and/or don?t want others to use, don?t post it. ZYNGA 
+IS NOT RESPONSIBLE FOR ANY OTHER PERSON?S USE OR APPROPRIATION OF ANY CONTENT OR
+ INFORMATION YOU POST IN ANY FORUMS, BLOGS AND CHAT ROOMS.
+
+We have no 
+obligation to monitor User Content and We are not responsible for monitoring the
+ Service for inappropriate or illegal User Content or conduct by other players. 
+That said, We have the right, in our sole discretion, to edit, refuse to post, 
+or remove any User Content.
+
+We may also, at our discretion, choose to monitor 
+and/or record your interaction with the Service or your communications with 
+Zynga or other players (including without limitation chat text and voice 
+communications) when you are using the Service.
+
+We are not responsible for 
+information, materials, products or services provided by other players (for 
+instance, in their profiles). However, if someone is violating these Terms or 
+misusing the Service, please let Us know by using a "Report Abuse" link provided
+ in the Service or contact Us at?Customer Support, or for Black Diamond Slots, 
+email support@risingtidegames.com, or, if your report relates to certain 
+NaturalMotion games, you may also contact Us through the ?Support? link on that 
+game?s page found on NaturalMotion?s website.
+
+You are responsible for your 
+interactions with other players. If you have a problem with another player, We 
+are not required to get involved, but We can if We desire.
+
+If you have a 
+dispute with another player, you release Zynga and its officers, directors, 
+agents, subsidiaries, joint ventures, and employees, and all Zynga Affiliates 
+from responsibility, claims, demands and/or damages (actual or consequential) of
+ every kind and nature, whether known or unknown, resulting from that dispute or
+ connected to that dispute. This includes damages for loss of profits, goodwill,
+ use or data.
+
+If you live in California, you waive California Civil Code ?1542,
+ which says: "A general release does not extend to claims which the creditor 
+does not know or suspect to exist in his or her favor at the time of executing 
+the release, which if known by him or her must have materially affected his 
+settlement with the debtor."
+
+We provide a service in the form of access to 
+games and Virtual Items. In the Service you may use "real world" money to obtain
+ a limited license to use Virtual Items and/or other goods or services.
+
+You get
+ a limited license to Virtual Items by visiting the purchase page in one of our 
+games, providing your billing information, confirming your request and re-
+affirming your agreement to these Terms.
+
+On Zynga.com, the payment page will 
+let you know what you can use to pay when you make your purchase. We may change 
+what you can use to pay from time to time, at Our sole discretion. Virtual Items
+ purchased in Our games on other platforms such as Facebook, Apple iOS, or 
+Android will be subject to those platforms? payment terms and conditions. Zynga 
+does not control how you can pay on those platforms. Please review those 
+platforms? terms of service for additional information.
+
+When you get a limited 
+license to use Virtual Items from our Services on Zynga.com, We may send you a 
+confirmation email or text that will have details of the items you have ordered.
+ Please check that the details in the confirmation message are correct as soon 
+as possible and keep a copy of it for your records. Zynga keeps records of 
+transactions in order to deal with any future questions about that transaction.
+
+
+For Virtual Items, your order will represent an offer to Us to obtain a 
+limited license for the relevant service(s) or virtual in-game item(s) which 
+will be accepted by Us when We make the Virtual Items available in your account 
+for you to use in our games or debit your credit card or other account through 
+which you paid, whichever comes first. Your limited license to Virtual Items for
+ use in Zynga games is a service provided by Zynga that starts when We accept 
+your payment or redemption of third party virtual currency.
+
+For orders to 
+obtain a limited license to use Virtual Items, by clicking the button on the 
+purchase window or page you:
+
+You understand that while you may ?earn? "buy" or 
+"purchase" Virtual Items in our Services, You do not legally "own" the Virtual 
+Items and the amounts of any Virtual Item do not refer to any credit balance of 
+real currency or its equivalent. Any "virtual currency" balance shown in your 
+Account does not constitute a real-world balance or reflect any stored value, 
+but instead constitutes a measurement of the extent of your limited license.
+
+
+YOU ACKNOWLEDGE THAT ZYNGA IS NOT REQUIRED TO PROVIDE A REFUND FOR ANY REASON, 
+AND THAT YOU WILL NOT RECEIVE MONEY OR OTHER COMPENSATION FOR UNUSED VIRTUAL 
+ITEMS WHEN AN ACCOUNT IS CLOSED, WHETHER SUCH CLOSURE WAS VOLUNTARY OR 
+INVOLUNTARY, OR WHETHER YOU MADE A PAYMENT THROUGH ZYNGA.COM OR ANOTHER PLATFORM
+ SUCH AS APPLE, GOOGLE, FACEBOOK, OR ANY OTHER SITES OR PLATFORMS WHERE WE OFFER
+ OUR SERVICES.
+
+You may also obtain a limited license to use Virtual Items by 
+redeeming Zynga game cards or third party virtual currency.
+
+PURCHASES OR 
+REDEMPTIONS OF THIRD PARTY VIRTUAL CURRENCY TO ACQUIRE A LICENSE TO USE VIRTUAL 
+ITEMS ARE NON-REFUNDABLE TO THE FULLEST EXTENT ALLOWED BY LAW.
+
+If you purchase 
+third party currency or choose to make a payment in our Services through a third
+ party (like Facebook, Apple, or Google), you are agreeing to the third party?s 
+payment terms, and Zynga is not a party to the transaction.
+
+Game Cards are also
+ subject to additional terms, which can be found at Zynga Game Card Terms.
+
+You 
+agree to pay all fees and applicable taxes incurred by you or anyone using an 
+Account registered to you. Zynga may revise the pricing for the goods and 
+services it licenses to you through the Service at any time.
+
+Subscriptions are 
+also subject to additional terms, which can be found at Subscription Terms.
+
+For
+ billing support, call our billing support team at 1-800-762-2530 (North 
+America) or your country code + 80011551398 (all other countries). (Please note 
+that telephone support for billing-related issues and questions is available in 
+English only.) These telephone numbers are for billing related issues and 
+questions ONLY. The person that answers the telephone at these billing support 
+telephone numbers will NOT be able to help you with technical issues, game play,
+ or in-game purchasing questions. They really are just there to help with 
+billing questions.
+
+For non-billing customer assistance, please go to 
+https://zyngasupport.helpshift.com/, or for Black Diamond Slots, email 
+support@risingtidegames.com, or for NaturalMotion games you may also obtain 
+customer assistance by clicking on the ?Support? link on that game?s page found 
+on NaturalMotion?s website.
+
+From time to time, We may offer limited time 
+promotions.? Please review the official rules (if any) associated with the 
+promotion. They will apply in addition to these Terms.
+
+In addition, from time 
+to time, We may promote Offers. ?We are not required to give, and players are 
+not required to accept, any Offer. Offers are not transferable, redeemable or 
+exchangeable for other things of value, except at our sole discretion. ?If you 
+accept any Offer, you may have to sign a declaration of eligibility and 
+liability release, or sign other paperwork in order to get the Offer. ?Some 
+Offers will be subject to taxes and other charges, travel, or activities outside
+ of the virtual world, all of which will be disclosed before You accept the 
+offer. ?If you accept an Offer you also assume all liability associated with the
+ Offer.
+
+Our Service and our games may feature advertisements from Us or other 
+companies. ?Our Privacy Policy explains what information We share with 
+advertisers. Please read it.
+
+Sometimes We provide links in Our games or on the 
+Service to other companies? websites or to companies who invite you to 
+participate in a promotional offer and offer you some feature of the Service or 
+upgrade (such as in-game currency) in exchange. Any charges or obligations you 
+take on in dealing with these other companies are your responsibility.
+
+We make 
+no representation or promises about any content, goods or services these other 
+companies provide, even if linked to or from Our Service or games. Also, just 
+because We allow a link to be included in Our games or Service does not mean We 
+endorse that linked site. We are not liable for any claim relating to any 
+content, goods and/or services of third parties.
+
+Please also note that the 
+linked sites are not under our control and may collect data or ask you to 
+provide them with your personal or other information, or they may automatically 
+collect information from you. When you use other companies? services like these,
+ the other company?s service may (or may not) ask you for permission to access 
+your information and content. We are not responsible for these other companies? 
+content, business practices or privacy policies, or for how they collect, use or
+ share the information they get from you. Your relationship with that other 
+company will control how it can use, store, and share your information.
+
+We 
+respect the intellectual property rights of others and ask that you should, too.
+ We respond to notices of alleged copyright infringement that comply with the 
+Digital Millennium Copyright Act (?DMCA?) and similar or equivalent local laws 
+that may apply. For more information, please go to?Zynga's Copyright Page?to 
+review our DMCA Notification Guidelines. We reserve the right to terminate any 
+player's access to the Service if We determine that the player is a "repeat 
+infringer." We do not have to notify the player before We do this. We also 
+accommodate and do not interfere with standard technical measures copyright 
+owners use to protect their materials.
+
+Sometimes, We may request your feedback 
+on certain features through a promotion or our customer insights program. Any 
+feedback you provide at Our request through a promotion or program is subject to
+ the rules of the specific promotion or program.
+
+Any idea, information or 
+feedback you submit to us without Our specific request is subject to Our 
+Unsolicited Ideas Policy.
+
+Neither Zynga nor any Zynga Affiliate makes any 
+promise or guarantee that the Service will be uninterrupted or error-free.
+
+USE 
+OF THE SERVICE IS AT YOUR SOLE RISK. IT IS PROVIDED ON AN "AS IS" BASIS. TO THE 
+EXTENT PERMITTED BY APPLICABLE LAW, ZYNGA AND ANY ZYNGA AFFILIATE MAKE NO 
+WARRANTIES, CONDITIONS OR OTHER TERMS OF ANY KIND, EITHER EXPRESS OR IMPLIED, 
+ABOUT THE SERVICES. ZYNGA AND ANY ZYNGA AFFILIATE DISCLAIM ANY WARRANTIES OF 
+TITLE OR IMPLIED WARRANTIES, CONDITIONS OR OTHER TERMS OF NON-INFRINGEMENT, 
+MERCHANTABILITY, QUIET ENJOYMENT OR FITNESS FOR A PARTICULAR PURPOSE.
+
+If your 
+state or country does not allow these disclaimers, they do not apply to you. If 
+your state or country requires a certain period for which a warranty applies, it
+ will be either the shorter of 30 days from your first use of the Service or the
+ shortest period required by law.
+
+YOU ACKNOWLEDGE THAT THE WE AND ZYNGA 
+AFFILIATES ARE NOT LIABLE
+
+(1) FOR ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY 
+OR CONSEQUENTIAL DAMAGES, INCLUDING FOR LOSS OF PROFITS, GOODWILL OR DATA, IN 
+ANY WAY WHATSOEVER ARISING OUT OF THE USE OF, OR INABILITY TO USE, THE SERVICE; 
+OR
+
+(2) FOR THE CONDUCT OF THIRD PARTIES, INCLUDING OTHER USERS OF THE SERVICE 
+AND OPERATORS OF EXTERNAL SITES.
+
+THE RISK OF USING THE SERVICE AND EXTERNAL 
+SITES RESTS ENTIRELY WITH YOU AS DOES THE RISK OF INJURY FROM THE SERVICE AND 
+EXTERNAL SITES.
+
+TO THE FULLEST EXTENT ALLOWED BY ANY LAW THAT APPLIES, THE 
+DISCLAIMERS OF LIABILITY IN THESE TERMS APPLY TO ALL DAMAGES OR INJURY CAUSED BY
+ THE SERVICE, OR RELATED TO USE OF, OR INABILITY TO USE, THE SERVICE, UNDER ANY 
+CAUSE OF ACTION IN ANY JURISDICTION, INCLUDING, WITHOUT LIMITATION, ACTIONS FOR 
+BREACH OF WARRANTY, BREACH OF CONTRACT OR TORT (INCLUDING NEGLIGENCE).
+
+TO THE 
+MAXIMUM EXTENT PERMISSIBLE UNDER APPLICABLE LAWS, THE TOTAL LIABILITY OF ZYNGA 
+AND/OR THE ZYNGA AFFILIATES IS LIMITED TO THE TOTAL AMOUNT YOU HAVE PAID ZYNGA 
+AND/OR THE ZYNGA AFFILIATE IN THE ONE HUNDRED AND EIGHTY DAYS (180) DAYS 
+IMMEDIATELY PRECEDING THE DATE ON WHICH YOU FIRST ASSERT ANY SUCH CLAIM.
+
+IF YOU
+ HAVE NOT PAID ZYNGA OR ANY ZYNGA AFFILIATE ANY AMOUNT IN THE ONE HUNDRED AND 
+EIGHTY DAYS (180) DAYS IMMEDIATELY PRECEDING THE DATE ON WHICH YOU FIRST ASSERT 
+ANY SUCH CLAIM, YOUR SOLE AND EXCLUSIVE REMEDY FOR ANY DISPUTE WITH ZYNGA AND/OR
+ ANY ZYNGA AFFILIATE IS TO STOP USING THE SERVICE AND TO CANCEL YOUR ACCOUNT.
+
+
+Some states or countries do not allow the exclusion of certain warranties or the
+ limitations/exclusions of liability described above. So these 
+limitations/exclusions may not apply to you if you reside in one of those states
+ or countries.
+
+If you use or misuse the Service, or if you violate these Terms 
+or any other applicable rules, including the Community Rules or Feature Terms, 
+and that results in loss or damage or in a claim or liability against Zynga or 
+any Zynga Affiliate, you agree to indemnify, defend and hold harmless Zynga 
+and/or the Zynga Affiliate (which means you agree to compensate Zynga and/or the
+ Zynga Affiliate on a "dollar for dollar" basis) for that loss, damage, claim or
+ liability, including compensating Zynga and/or the applicable Zynga Affiliate 
+for our legal fees or expenses. If Zynga or the Zynga Affiliate wants to, they 
+are allowed to take exclusive charge of the defense of any case on which you are
+ required to compensate or reimburse them, and it will be at your expense. You 
+also have to cooperate in Zynga?s and/or the Zynga Affiliate?s defense of these 
+cases. Zynga and/or the Zynga Affiliate will use reasonable efforts to let you 
+know if they learn of any claim on which you have to compensate or reimburse 
+them. This will apply even if you stop using the Services or your account is 
+deleted.
+
+THIS SECTION ONLY APPLIES TO PLAYERS IN THE US AND CANADA.
+
+Before 
+bringing a formal legal case, please first try contacting our Customer Support 
+team at https://zyngasupport.helpshift.com/, or for Black Diamond Slots email 
+support@risingtidegames.com, or for Natural Motion games email 
+contact@naturalmotion.com, or try to find a resolution on one of our forums. Or,
+ for issues relating to certain NaturalMotion games, you may find resolution by 
+clicking on the ?Support? link on that game?s page found on NaturalMotion?s 
+website, where you will be taken to that game?s support page. You may find 
+resolution in one of the support articles posted there or you can use the 
+?Submit a Request? form to contact Customer Support for that game. Most disputes
+ can be resolved that way.
+
+We Both Agree to Arbitrate
+
+If we can?t resolve our 
+dispute through Customer Service or on our forums, you and Zynga or any member 
+of the Zynga Corporate Family all agree to resolve any claims relating to the 
+Terms, the Privacy Policy, Feature Terms or Zynga?s Services through final and 
+binding arbitration. This applies to all kinds of claims under any legal theory,
+ unless the claim fits in one of the exceptions in the Exceptions to Agreement 
+to Arbitrate sub-section. It also applies even after you stopped using your 
+Zynga account or deleted it.
+
+An arbitration proceeding is before a neutral 
+arbitrator instead of a judge and jury, so we are all giving up our right to a 
+trial before a judge and jury. Arbitrations have different rules than lawsuits 
+in court. They are less formal than lawsuits in courts, and provide limited 
+opportunity to force the other side to share information relevant to the 
+dispute?a process called discovery. The arbitrator can award the same damages 
+and relief on an individual basis that a court can award to an individual. But, 
+if any of us does not like the arbitrator?s decision, the courts only have a 
+limited ability to change the outcome of arbitration or make the arbitrator 
+reconsider his or her decision.
+
+If we have a dispute about whether this 
+agreement to arbitrate can be enforced or applies to our dispute, we all agree 
+that the arbitrator will decide that, too.
+
+We all agree that we will go to 
+court to resolve disputes relating to
+
+For more information about which court we
+ can go to for resolving these types of disputes, see Section 19 (Venue for 
+Legal Disputes Not Subject to Arbitration).
+
+Also, any of us can bring a claim 
+in small claims court either in San Francisco, California, or the county where 
+you live, or some other place we both agree on, if it qualifies to be brought in
+ that court.
+
+In addition, if you, Zynga or a Zynga Corporate Family member 
+brings a claim in court that should be arbitrated or any of us refuses to 
+arbitrate a claim that should be arbitrated, the other of us can ask a court to 
+force us to go to arbitration to resolve the claim (i.e., compel arbitration). 
+You, Zynga or the Zynga Corporate Family member may also ask a court to halt a 
+court proceeding while an arbitration proceeding is ongoing.
+
+We all agree that 
+we can only bring a claim against each other on an individual basis.
+
+If a court
+ decides that this subsection on ?No Class Actions? is not enforceable or valid,
+ then the entire Section 17 (Agreement to Arbitrate and Class Action Waiver) 
+will be null and void (i.e., go away). But, the rest of the Terms, Feature 
+Terms, Community Rules, and Privacy Policy will still apply.
+
+The American 
+Arbitration Association (AAA) will run the arbitration between you and Zynga or 
+the Zynga Corporate Family member, and AAA?s rules and procedures (including 
+their Supplementary Procedures for Consumer-Related Disputes, if applicable) 
+will be used. If something in these Terms is different than AAA?s rules and 
+procedures, then we will follow these Terms instead. You can look at AAA?s rules
+ and procedures on their website www.adr.org or you can call them at 
+1-800-778-7879.
+
+To start an arbitration proceeding, use the form on AAA?s 
+website (www.adr.org) or call them at 1-800-778-7879.
+
+You get to choose whether
+ the arbitration will take place in the county or province where you live or in 
+San Francisco, California. We could also hold the arbitration in some other 
+place, but we both have to agree to that.
+
+If your claim is for US$10,000 or 
+less, you don?t have to have the arbitration in-person. If you don?t want to 
+have it in-person, you can choose whether to have the arbitrator decide our 
+dispute based on documents we both give to the arbitrator, or have a hearing by 
+phone. If your claim is for more than US$10,000, we will follow AAA?s rules 
+about whether the arbitration hearing has to be in-person.
+
+The arbitrator has 
+to follow the law that applies when deciding a dispute and either of us can 
+challenge the arbitrator?s decision or award if the arbitrator didn?t follow the
+ law.
+
+Either of us involved in the arbitration can ask the arbitrator to put 
+his or her decision or award, or his or her reasons for the decision or award, 
+in writing. Also, either of us can take the arbitrator?s decision or award to a 
+court to confirm it or enter a judgment on it (i.e., make it the same as a court
+ judgment). Sometimes you can ask a court to change an arbitrator?s decision or 
+award, but those circumstances are limited.
+
+If your claim is for US$10,000 or 
+less, Zynga will pay your filing, administration and arbitrator fees associated 
+with the arbitration, if you ask. If you want Zynga to pay these fees, tell AAA 
+when you start the arbitration proceeding and Zynga will make arrangements to 
+pay them.
+
+If your claim is for more than US $10,000, and arbitration is too 
+expensive for you to afford when compared to filing a lawsuit in court, Zynga 
+will pay for as much of your part of the filing, administration and arbitrator 
+fees as the arbitrator decides is necessary to make the arbitration not too 
+expensive for you.
+
+We won?t try to have you pay Us back for covering your fees 
+and We won?t try to make you cover our (or a Zynga Corporate Family member?s) 
+fees unless the arbitrator decides that your claims are frivolous and it is fair
+ to make you do this under the circumstances.
+
+Changes to Section 17 on 
+Agreement to Arbitrate and Class Action Waiver
+
+We will give you 60-days? notice
+ by email or through the Service if We change Section 17 on our Agreement to 
+Arbitrate and Class Action Waiver.
+
+The Federal Arbitration Act (including its 
+procedural provisions) is the law that will be applied to determine whether 
+Section 17 (Agreement to Arbitrate and Class Action Waiver) can be enforced and 
+how it should be interpreted.
+
+Apart from that, if you are United States 
+resident, these Terms and our relationship will be governed by California law, 
+except for its conflicts of laws principles.
+
+If you reside outside the United 
+States these Terms and our relationship will be governed by Irish law, except 
+for its conflicts of laws principles.
+
+If you are a United States resident, 
+judicial proceedings (other than small claims actions) that are excluded from 
+the Arbitration Agreement in Section 17 must be brought in state or federal 
+court in San Francisco, California, unless we both agree to some other location.
+ You and Zynga both consent to venue and personal jurisdiction in San Francisco,
+ California.
+
+If you reside outside the United States, judicial proceedings must
+ be brought in the courts of Ireland, unless we both agree to some other 
+location, and you and Zynga both consent to venue and personal jurisdiction in 
+Ireland.
+
+If you reside outside the United States, and it is January 1, 2015, or
+ later, judicial proceedings must be brought in the courts of Ireland, unless we
+ both agree to some other location, and you and Zynga both consent to venue and 
+personal jurisdiction in Ireland.
+
+Except as described in Section 17 under the 
+?No Class Actions? heading, if any part of these Terms, Feature Terms, Community
+ Rules or the Privacy Policy is not enforceable, the rest of these Terms, 
+Feature Terms, Community Rules and the Privacy Policy still applies and is 
+binding and any unenforceable term will be substituted reflecting our intent as 
+closely as possible.
+
+We may give our rights, or Our obligations, under these 
+Terms, Feature Terms, Community Rules, or our Privacy Policy to any person or 
+entity at any time with or without your consent. You may not give your rights or
+ your obligations under these Terms, Feature Terms, Community Rules, or our 
+Privacy Policy without first getting Zynga?s written consent, and any attempt to
+ do so without our consent is void.
+
+These Terms, and any other policies or 
+rules We reference in these Terms, make up the entire agreement between you and 
+Us relating to the subject matter of these Terms, and (except in the case of 
+fraud or made a fraudulent misstatement) supersede all prior understandings of 
+the parties relating to the subject matter of these Terms, whether those prior 
+understandings were electronic, oral or written, or whether established by 
+custom, practice, policy or precedent, between you and Us.
+
+If We provide a 
+translated version of these Terms, Feature Terms, the Community Rules, the Zynga
+ Privacy Policy, or any other terms or policy, it is for informational purposes 
+only. If the translated version means something different than the English 
+version, then the English meaning will be the one that applies.
+
+If We do not 
+enforce a provision of these Terms, Feature Terms, the Community Rules, or our 
+Privacy Policy, that does not waive our right to do so later. And, if We do 
+expressly waive a provision of these Terms, Feature Terms, the Community Rules, 
+or our Privacy Policy that does not mean it is waived for all time in the 
+future. Any waiver must be in writing and signed by both you and Us to be 
+legally binding.
+
+We may notify you by posting something on www.zynga.com, or in
+ the Zynga game(s) you play, and sending you an e-mail or using other ways of 
+communicating with you based on the contact information you provide to Us.
+
+If 
+you are a player in the United States, and you have to give Us notice of 
+something according to the Terms, Feature Terms, Community Rules, or our Privacy
+ Policy, the notice must be in writing and addressed to Zynga Inc., Attn: LEGAL 
+DEPARTMENT, 699 8th Street, San Francisco, CA 94103, unless we have provided a 
+more specific method way of notifying us.
+
+If you are a player outside of the 
+United States, and you have to give Us notice of something according to the 
+Terms, Feature Terms or the Zynga Privacy Policy, the notice must be in writing 
+and addressed to: Zynga Game Ireland Limited located at 25-28 North Wall Quay, 
+Dublin 1, Ireland, unless we have provided a more specific method way of 
+notifying us.
+
+Any attempted notice that does not follow these rules has no 
+legal effect.
+
+You agree that given the unique and irreplaceable nature of the 
+rights granted and obligations made under these Terms and the Community Rules, 
+if you breach these Terms, Feature Terms, Community Rules and/or our Privacy 
+Policy, or intend to breach these Terms, Feature Terms, Community Rules or 
+Privacy Policy, money damages alone will not be enough to repair the harm to 
+Zynga. Therefore, for disputes that are not required to be resolved through 
+arbitration as described in Section 17, Zynga may seek injunctive or other 
+equitable relief (e.g., get a court order to make you stop doing whatever you?re
+ doing that is causing harm) if you breach or intend to breach these Terms, 
+Feature Terms, Community Rules or our Privacy Policy and Zynga does not have to 
+post any bond or surety or submit proof of damages.
+
+You agree to limit your 
+claims to claims for money damages, as limited by Section 15 (Limitations; 
+Waivers of Liability). And, you agree not to seek injunctive or equitable relief
+ or otherwise seek to stop Us from operating any aspect of the Service or any 
+Zynga Game.
+
+We are not liable for any changes or problems out of our control, 
+for example changes or problems caused by like natural disasters, war, 
+terrorism, riots, embargoes, acts of civil or military authorities, fire, 
+floods, accidents, network infrastructure failures, strikes, or shortages of 
+transportation facilities, fuel, energy, labor or materials.
