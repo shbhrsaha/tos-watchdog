@@ -44,8 +44,8 @@ mobile advertising services to control the number of times you see a given ad,
 deliver ads that relate to your interests, and measure the effectiveness of ad 
 campaigns. If you do not want to receive ads with this level of relevance on 
 your mobile device, you can opt out by accessing the following link on your 
-device: http://oo.apple.com. Alternatively, if you are using the iOS 6 operating
- system or later on your mobile device, you may opt out by selecting Limit Ad 
+device: http://oo.apple.com. Alternatively, if you are using?the?iOS 6?operating
+ system?or?later?on your mobile device, you may opt-out by selecting Limit Ad 
 Tracking. If you opt out, you will continue to receive the same number of mobile
  ads, but they may be less relevant because they will not be based on your 
 interests. You may still see ads related to the content on a web page or in an 
@@ -176,26 +176,28 @@ regional Privacy Contact?Form.
 
 We understand the importance of taking extra 
 precautions to protect the privacy and safety of children using Apple products 
-and services. Accordingly, we do not knowingly collect, use or disclose personal
- information from children under 13, or equivalent minimum age in the relevant 
-jurisdiction, without verifiable parental consent. If we learn that we have 
-collected the personal information of a child under 13, or equivalent minimum 
-age depending on jurisdiction, without first receiving verifiable parental 
-consent we will take steps to delete the information as soon as possible.
-
-
-Children under the age of 13, or equivalent minimum age in the relevant 
-jurisdiction, are not permitted to create their own Apple IDs, unless their 
-parent provided consent through the Apple ID for Students Program or as part of 
-the child account creation process in Family Sharing. For example, a parent must
- review the Apple ID and Family Sharing Disclosure and agree to the Consent to 
+and services. Children under the age of 13, or equivalent minimum age in the 
+relevant jurisdiction, are not permitted to create their own Apple IDs, unless 
+their parent provided verifiable consent or as part of the child account 
+creation process in Family Sharing or they have obtained a Managed Apple ID 
+account (where available) through their school. For example, a parent must 
+review the Apple ID and Family Sharing Disclosure and agree to the Consent to 
 Apple?s Collection, Use and Disclosure of Your Child?s Information; and the 
 iTunes Store Terms and Conditions, before they can begin the Apple ID account 
-creation process for their child. Learn more about Family Sharing, the Apple ID 
-for Students program and Restrictions for children?s accounts.
+creation process for their child. In addition, schools that participate in Apple
+ School Manager and have reviewed and consented to the Managed Apple IDs for 
+Students Disclosure may create Managed Apple IDs for students. The Managed Apple
+ IDs for Students Disclosure describes how Apple handles student information and
+ supplements Apple?s Privacy Policy. Learn more about Family Sharing, the 
+Managed Apple IDs and Restrictions for children?s accounts.
 
-If at any time a
- parent needs to access, correct, or delete data associated with their Family 
+If we learn that we
+ have collected the personal information of a child under 13, or equivalent 
+minimum age depending on jurisdiction, outside the above circumstances we will 
+take steps to delete the information as soon as possible.
+
+If at any time a 
+parent needs to access, correct, or delete data associated with their Family 
 Sharing account or child?s Apple ID, they may contact us through our Privacy 
 Contact Form.
 
